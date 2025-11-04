@@ -132,12 +132,7 @@
 }
 
 .item-hidden {
-    opacity: 0;
-    visibility: hidden;
-}
-
-.item-removed {
-    display: none;
+    display: none !important;
 }
 
 /* When item is expanded, align header to the top */
