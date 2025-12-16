@@ -2,7 +2,8 @@
 
 > **💡 Important:**  
 > If the page looks off, sections don’t load, or you’re not seeing the newest features —  
-> **hard-refresh your browser** (`Ctrl + Shift + R` or `Ctrl + F5`).  
+> **hard-refresh your browser** (`Ctrl + Shift + R` or `Ctrl + F5`).
+> This Should be purely optional as the page has logic to automatically refresh if a new version is detected and you have older version cached, but it never hurts to try 😉 
 >
 > GitHub Pages and browsers aggressively cache static files,  
 > so a full reload ensures you’re running the latest version with **all recent improvements, fixes, and UI updates**.  
