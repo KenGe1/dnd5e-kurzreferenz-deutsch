@@ -39,7 +39,7 @@ function add_quickref_item(parent, data, type) {
     var icon = data.icon || "perspective-dice-six-faces-one";
     var subtitle = data.subtitle || "";
     var title = data.title || "[no title]";
-    var optional = data.optional || "Standard rule";
+    var optional = data.optional || "Standardregel";
     var description = data.description || data.subtitle || "";
     var bullets = data.bullets || [];
     var reference = data.reference || "";
@@ -149,15 +149,15 @@ function fill_section(data, parentname, type) {
 
 // Initialize all quickref sections and apply initial filtering
 function init() {
-    fill_section(data_movement, "basic-movement", "Move");
-    fill_section(data_action, "basic-actions", "Action");
-    fill_section(data_bonusaction, "basic-bonus-actions", "Bonus action");
-    fill_section(data_reaction, "basic-reactions", "Reaction");
-    fill_section(data_condition, "basic-conditions", "Condition");
-    fill_section(data_environment_obscurance, "environment-obscurance", "Environment");
-    fill_section(data_environment_light, "environment-light", "Environment");
-    fill_section(data_environment_vision, "environment-vision", "Environment");
-    fill_section(data_environment_cover, "environment-cover", "Environment");
+    fill_section(data_movement, "basic-movement", "Bewegung");
+    fill_section(data_action, "basic-actions", "Aktion");
+    fill_section(data_bonusaction, "basic-bonus-actions", "Bonusaktion");
+    fill_section(data_reaction, "basic-reactions", "Reaktion");
+    fill_section(data_condition, "basic-conditions", "Zustand");
+    fill_section(data_environment_obscurance, "environment-obscurance", "Umwelt");
+    fill_section(data_environment_light, "environment-light", "Umwelt");
+    fill_section(data_environment_vision, "environment-vision", "Umwelt");
+    fill_section(data_environment_cover, "environment-cover", "Umwelt");
 
     // Apply initial filtering after items are created
     if (typeof window.handleRulesToggle === 'function') {
@@ -327,13 +327,13 @@ document.addEventListener("DOMContentLoaded", function () {
         var activeLabel = document.getElementById('active-ruleset-label');
 
         if (rules2024Checkbox.checked) {
-            if (titleEl) titleEl.textContent = 'Switch to 2014 Rules';
-            if (descEl) descEl.textContent = 'Switches to the D&D 2014 (legacy) ruleset.';
-            if (activeLabel) activeLabel.textContent = 'Current Ruleset: D&D 2024';
+            if (titleEl) titleEl.textContent = 'Auf 2014-Regeln umschalten';
+            if (descEl) descEl.textContent = 'Wechselt auf das D&D-2014-Regelwerk (Legacy).';
+            if (activeLabel) activeLabel.textContent = 'Aktives Regelwerk: D&D 2024';
         } else {
-            if (titleEl) titleEl.textContent = 'Switch to 2024 Rules';
-            if (descEl) descEl.textContent = 'Switches to the D&D 2024 ruleset.';
-            if (activeLabel) activeLabel.textContent = 'Current Ruleset: D&D 2014 (legacy)';
+            if (titleEl) titleEl.textContent = 'Auf 2024-Regeln umschalten';
+            if (descEl) descEl.textContent = 'Wechselt auf das D&D-2024-Regelwerk.';
+            if (activeLabel) activeLabel.textContent = 'Aktives Regelwerk: D&D 2014 (Legacy)';
         }
     }
     updateRulesToggleLabel();
@@ -357,9 +357,9 @@ document.addEventListener("DOMContentLoaded", function () {
             var item = items[i];
             var ruleType = item.getAttribute('title');
             // Only filter items that are actual quickref rules
-            if (ruleType === 'Optional rule' || ruleType === 'Homebrew rule' || ruleType === 'Standard rule') {
-                var isOptional = ruleType === 'Optional rule';
-                var isHomebrew = ruleType === 'Homebrew rule';
+            if (ruleType === 'Optionale Regel' || ruleType === 'Hausregel' || ruleType === 'Standardregel') {
+                var isOptional = ruleType === 'Optionale Regel';
+                var isHomebrew = ruleType === 'Hausregel';
                 // Show item if:
                 // - It's an optional rule and the optional toggle is ON
                 // - It's a homebrew rule and the homebrew toggle is ON

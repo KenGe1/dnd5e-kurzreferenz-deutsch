@@ -1,78 +1,78 @@
 data_bonusaction = [
     {
-        title: "Offhand Attack",
-        optional: "Standard rule",
+        title: "Angriff mit der Nebenhand",
+        optional: "Standardregel",
         icon: "crossed-swords",
-        subtitle: "Use with the Attack action",
-        description: "Attack with your off hand",
-        reference: "PHB, pgs. 192,194-195.",
+        subtitle: "Mit der Aktion Angriff verwenden",
+        description: "Greife mit deiner Nebenhand an",
+        reference: "PHB, S. 192, 194-195.",
         bullets: [
-            "Only usable if you take the <i>Attack</i> action and attack with a light melee weapon that you're holding in one hand.",
-            "Perform a single attack with a different light melee weapon that you're holding in the other hand.",
-            "You don't add your ability modifier to the damage of the bonus attack unless that modifier is negative.",
-            "If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it."
+            "Nur nutzbar, wenn du die Aktion <i>Angriff</i> ausführst und mit einer leichten Nahkampfwaffe angreifst, die du in einer Hand hältst.",
+            "Führe einen einzelnen Angriff mit einer anderen leichten Nahkampfwaffe aus, die du in der anderen Hand hältst.",
+            "Du addierst deinen Attributsmodifikator nicht zum Schaden des Bonusangriffs, es sei denn, der Modifikator ist negativ.",
+            "Wenn eine der Waffen die Eigenschaft Wurfwaffe hat, kannst du die Waffe werfen, statt mit ihr einen Nahkampfangriff zu machen."
         ]
     },
     {
-        title: "Cast a spell",
-        optional: "Standard rule",
+        title: "Zauber wirken",
+        optional: "Standardregel",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 bonus action",
-        description: "Cast a spell with a casting time of 1 bonus action",
-        reference: "PHB, pg. 192.",
+        subtitle: "Zauberzeit: 1 Bonusaktion",
+        description: "Wirke einen Zauber mit einer Zauberzeit von 1 Bonusaktion",
+        reference: "PHB, S. 192.",
         bullets: [
-            "You can't cast a spell with your action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
-            "For further details, see the <i>Cast a spell</i> action."
+            "Du kannst nicht mit deiner Aktion einen Zauber und mit deiner Bonusaktion in derselben Runde einen anderen Zauber wirken, außer wenn die Aktion zum Wirken eines Zaubertricks genutzt wird.",
+            "Weitere Details findest du bei der Aktion <i>Zauber wirken</i>."
         ]
     },
     {
-        title: "Use class feature",
-        optional: "Standard rule",
+        title: "Klassenmerkmal nutzen",
+        optional: "Standardregel",
         icon: "embrassed-energy",
-        subtitle: "Some features use bonus actions",
-        description: "Use a racial or class feature that uses a bonus action",
-        reference: "See class page for more information.",
+        subtitle: "Manche Merkmale nutzen Bonusaktionen",
+        description: "Nutze ein Völker- oder Klassenmerkmal, das eine Bonusaktion verwendet",
+        reference: "Siehe Klassenseite für weitere Informationen.",
         bullets: [
 
         ]
     },
     {
-        title: "Overrun*",
-        optional: "Optional rule",
+        title: "Überrennen*",
+        optional: "Optionale Regel",
         icon: "shield-bash",
-        subtitle: "Run through a hostile space",
-        description: "When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature.",
-        reference: "DMG, page 272",
+        subtitle: "Durch einen feindlichen Raum rennen",
+        description: "Wenn eine Kreatur versucht, sich durch den Raum einer feindlichen Kreatur zu bewegen, kann der Beweger versuchen, sich durchzudrängen, indem er die feindliche Kreatur überrennt.",
+        reference: "DMG, S. 272",
         bullets: [
-            "(Optional Rule):",
-            "As a bonus action, the mover makes a Strength (Athletics) check contested by the hostile creature's Strength (Athletics) check.",
-            "The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller.",
-            "If the mover wins the contest, it can move through the hostile creature's space once this turn."
+            "(Optionale Regel):",
+            "Als Bonusaktion macht der Beweger einen Stärke- (Athletik-)Wurf, der durch den Stärke- (Athletik-)Wurf der feindlichen Kreatur angefochten wird.",
+            "Die überrennende Kreatur hat Vorteil auf diesen Wurf, wenn sie größer ist als die feindliche Kreatur, oder Nachteil, wenn sie kleiner ist.",
+            "Wenn der Beweger den Wettstreit gewinnt, kann er sich in dieser Runde einmal durch den Raum der feindlichen Kreatur bewegen."
         ]
     },
     {
-        title: "Tumble*",
-        optional: "Optional rule",
+        title: "Durchrollen*",
+        optional: "Optionale Regel",
         icon: "tumble",
-        subtitle: "Tumble through a hostile space",
-        description: "A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent.",
-        reference: "DMG, page 272",
+        subtitle: "Durch einen feindlichen Raum rollen",
+        description: "Eine Kreatur kann versuchen, sich durch den Raum einer feindlichen Kreatur zu rollen, indem sie sich duckt und an dem Gegner vorbeischlängelt.",
+        reference: "DMG, S. 272",
         bullets: [
-            "(Optional Rule):",
-            "As a bonus action, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature's Dexterity (Acrobatics) check.",
-            "If the tumbler wins the contest, it can move through the hostile creature's space once this turn."
+            "(Optionale Regel):",
+            "Als Bonusaktion macht der Rollende einen Geschicklichkeits- (Akrobatik-)Wurf, der durch den Geschicklichkeits- (Akrobatik-)Wurf der feindlichen Kreatur angefochten wird.",
+            "Wenn der Rollende den Wettstreit gewinnt, kann er sich in dieser Runde einmal durch den Raum der feindlichen Kreatur bewegen."
         ]
     },
     {
-        title: "Drink a potion **",
-        optional: "Homebrew rule",
+        title: "Trank trinken **",
+        optional: "Hausregel",
         icon: "potion-ball",
-        subtitle: "Roll for the effect",
-        description: "Roll the dice as per the description of the potion",
+        subtitle: "Würfle den Effekt aus",
+        description: "Würfle wie in der Beschreibung des Tranks angegeben",
         bullets: [
-            "(Optional Rule):",
-            "Normally Drinking potion counts as an <i>Action</i> and will heal by maximum amount.",
-            "When using it as <i>Bonus action</i>, roll the dice as per the description of the potion."
+            "(Optionale Regel):",
+            "Normalerweise zählt das Trinken eines Tranks als <i>Aktion</i> und heilt um den Maximalwert.",
+            "Wenn du es als <i>Bonusaktion</i> nutzt, würfle den Effekt wie in der Trankbeschreibung angegeben."
         ],
     },
 ]

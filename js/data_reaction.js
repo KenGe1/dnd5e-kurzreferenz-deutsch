@@ -1,53 +1,53 @@
 data_reaction = [
     {
-        title: "Opportunity attack",
-        optional: "Standard rule",
+        title: "Gelegenheitsangriff",
+        optional: "Standardregel",
         icon: "crossed-swords",
-        subtitle: "Enemy leaves your reach",
-        description: "You can rarely move heedlessly past your foes without putting yourself in danger",
-        reference: "PHB, pg. 195.",
+        subtitle: "Feind verlässt deine Reichweite",
+        description: "Du kannst selten achtlos an deinen Feinden vorbeigehen, ohne dich in Gefahr zu bringen",
+        reference: "PHB, S. 195.",
         bullets: [
-            "Trigger: An enemy creature you can see leaves your reach.",
-            "Make one melee attack against the provoking creature.",
-            "The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.",
-            "Creatures don't provoke an opportunity attack when they teleport or when someone or something moves them without using their movement, action, or reaction."
+            "Auslöser: Eine feindliche Kreatur, die du sehen kannst, verlässt deine Reichweite.",
+            "Führe einen Nahkampfangriff gegen die provozierende Kreatur aus.",
+            "Der Angriff unterbricht die Bewegung der provozierenden Kreatur und findet direkt statt, bevor sie deine Reichweite verlässt.",
+            "Kreaturen provozieren keinen Gelegenheitsangriff, wenn sie teleportieren oder wenn jemand oder etwas sie bewegt, ohne dass sie ihre Bewegung, Aktion oder Reaktion einsetzen."
         ]
     },
     {
-        title: "Readied action",
-        optional: "Standard rule",
+        title: "Bereitgehaltene Aktion",
+        optional: "Standardregel",
         icon: "stopwatch",
-        subtitle: "Part of your Ready action",
-        description: "Execute the reaction specified by your Ready action",
-        reference: "PHB, pg. 193.",
+        subtitle: "Teil deiner Aktion Bereithalten",
+        description: "Führe die durch deine Aktion Bereithalten festgelegte Reaktion aus",
+        reference: "PHB, S. 193.",
         bullets: [
-            "Trigger: As specified by your <i>Ready</i> action."
+            "Auslöser: Wie in deiner Aktion <i>Bereithalten</i> angegeben."
         ]
     },
     {
-        title: "Cast a spell",
-        optional: "Standard rule",
+        title: "Zauber wirken",
+        optional: "Standardregel",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 reaction",
-        description: "Cast a spell with a casting time of 1 reaction",
-        reference: "PHB, pg. 192.",
+        subtitle: "Zauberzeit: 1 Reaktion",
+        description: "Wirke einen Zauber mit einer Zauberzeit von 1 Reaktion",
+        reference: "PHB, S. 192.",
         bullets: [
-            "Trigger: As specified by the spell.",
-            "For further details, see the <i>Cast a spell</i> action."
+            "Auslöser: Wie im Zauber beschrieben.",
+            "Weitere Details findest du bei der Aktion <i>Zauber wirken</i>."
         ]
     },
     {
-        title: "Grapple **",
-        optional: "Homebrew rule",
+        title: "Ringen **",
+        optional: "Hausregel",
         icon: "grab",
-        subtitle: "Special melee attack",
-        description: "Attempt to grab a creature or wrestle with it",
-        reference: "PHB, pg. 195.",
+        subtitle: "Spezieller Nahkampfangriff",
+        description: "Versuche, eine Kreatur zu packen oder mit ihr zu ringen",
+        reference: "PHB, S. 195.",
         bullets: [
-            "You can use the <i>Reaction</i> action to make a special opportunity attack, a grapple. If you're able to make multiple attacks with the Opportunity Attack action, this attack replaces all of them.",
-            "The target of your grapple must be no more than one size larger than you, and it must be within your reach.",
-            "Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
-            "If you succeed, you subject the target to the grappled condition (its speed is set to 0)."
+            "Du kannst deine <i>Reaktion</i> nutzen, um einen speziellen Gelegenheitsangriff auszuführen: ein Ringen. Wenn du mit der Aktion Gelegenheitsangriff mehrere Angriffe ausführen kannst, ersetzt dieser Angriff alle davon.",
+            "Das Ziel deines Ringens darf höchstens eine Größenkategorie größer sein als du und muss sich in deiner Reichweite befinden.",
+            "Mit mindestens einer freien Hand versuchst du, das Ziel zu packen, indem du einen Ringwurf machst: einen Stärke- (Athletik-)Wurf, der durch einen Stärke- (Athletik-) oder Geschicklichkeits- (Akrobatik-)Wurf des Ziels angefochten wird (das Ziel wählt die Eigenschaft).",
+            "Bei Erfolg erhält das Ziel den Zustand <i>Gerungen</i> (seine Geschwindigkeit wird auf 0 gesetzt)."
         ]
     },    
 ]
