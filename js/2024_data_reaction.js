@@ -1,38 +1,38 @@
 data_reaction = [
     {
-        title: "Opportunity attack",
-        optional: "Standard rule",
+        title: "Gelegenheitsangriff",
+        optional: "Standardregel",
         icon: "crossed-swords",
-        subtitle: "Enemy leaves your reach",
-        description: "You can rarely move heedlessly past your foes without putting yourself in danger",
-        reference: "PHB, pg. 371.",
+        subtitle: "Feind verlässt deine Reichweite",
+        description: "Du kannst selten achtlos an deinen Feinden vorbeigehen, ohne dich in Gefahr zu bringen",
+        reference: "PHB, S. 371.",
         bullets: [
-            "Trigger: enemy creature you can see leaves your reach using its action, its Bonus Action, its Reaction or one of its Speeds.",
-            "Make one melee attack with a weapon or an unarmed strike against the provoking creature.",
-            "The attack occurs right before the creature leaves your reach."
+            "Auslöser: Eine feindliche Kreatur, die du sehen kannst, verlässt deine Reichweite, indem sie ihre Aktion, Bonusaktion, Reaktion oder eine ihrer Geschwindigkeiten nutzt.",
+            "Führe einen Nahkampfangriff mit einer Waffe oder einem unbewaffneten Schlag gegen die provozierende Kreatur aus.",
+            "Der Angriff findet direkt statt, bevor die Kreatur deine Reichweite verlässt."
         ]
     },
     {
-        title: "Readied action",
-        optional: "Standard rule",
+        title: "Bereitgehaltene Aktion",
+        optional: "Standardregel",
         icon: "stopwatch",
-        subtitle: "Part of your Ready action",
-        description: "Execute the reaction specified by your Ready action",
-        reference: "PHB, pg. 372-373.",
+        subtitle: "Teil deiner Aktion Bereithalten",
+        description: "Führe die durch deine Aktion Bereithalten festgelegte Reaktion aus",
+        reference: "PHB, S. 372-373.",
         bullets: [
-            "Trigger and Reaction: specified by your <i>Ready</i> action."
+            "Auslöser und Reaktion: wie in deiner Aktion <i>Bereithalten</i> festgelegt."
         ]
     },
     {
-        title: "Cast a spell",
-        optional: "Standard rule",
+        title: "Zauber wirken",
+        optional: "Standardregel",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 reaction",
-        description: "Cast a spell with a casting time of 1 reaction",
-        reference: "PHB, pg. 235-238.",
+        subtitle: "Zauberzeit: 1 Reaktion",
+        description: "Wirke einen Zauber mit einer Zauberzeit von 1 Reaktion",
+        reference: "PHB, S. 235-238.",
         bullets: [
-            "Trigger: specified by the spell.",
-            "For further details, see the <i>Cast a spell</i> action."
+            "Auslöser: wie im Zauber beschrieben.",
+            "Weitere Details findest du bei der Aktion <i>Zauber wirken</i>."
         ]
     }
 ]

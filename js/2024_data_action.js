@@ -1,242 +1,242 @@
 data_action = [
     {
-        title: "Attack",
-        optional: "Standard rule",
+        title: "Angriff",
+        optional: "Standardregel",
         icon: "crossed-swords",
-        subtitle: "Melee or ranged attack",
-        description: "Perform an attack roll with a weapon or an unarmed strike.",
-        reference: "PHB, pgs. 12, 361.",
+        subtitle: "Nah- oder Fernkampfangriff",
+        description: "Führe einen Angriffswurf mit einer Waffe oder einem unbewaffneten Schlag aus.",
+        reference: "PHB, S. 12, 361.",
         bullets: [
-            "You can either equip or unequip one weapon when you make an attack as part of this action. You do so before or after the attack.",
-            "Certain features, such as the <i>Extra Attack</i> feature of the fighter, allow you to make more than one attack with this action. Each of these attacks is a separate roll and may target different creatures. You may move in between these attacks.",
-            "When you attack with a light melee weapon, you can use a bonus action to attack with another light melee weapon in your other hand (see the <i>Offhand attack</i> bonus action).",
-            "You may use an unarmed strike to <i>Grapple</i>, <i>Shove</i> or deal damage to an opponent. To deal damage, make an attack roll against the target with a bonus of your Strength Modifier plus your Proficiency Bonus and deal (1 + STR Modifier) Bludgeoning damage.",
-            "Some conditions give Advantage on the attack: attacks against blinded, paralyzed, petrified, restrained, stunned, or unconscious targets; melee attacks against prone targets; attacks by invisible or hidden attackers.",
-            "Some conditions give Disadvantage on the attack: attacks against invisible or hidden targets; ranged attacks against prone targets; attacks by blinded, frightened, poisoned, or restrained attackers."
+            "Du kannst beim Ausführen dieses Angriffs eine Waffe anlegen oder ablegen. Du tust dies vor oder nach dem Angriff.",
+            "Bestimmte Merkmale, wie etwa die Eigenschaft <i>Zusätzlicher Angriff</i> des Kämpfers, erlauben dir, mit dieser Aktion mehr als einen Angriff zu machen. Jeder dieser Angriffe ist ein eigener Wurf und kann unterschiedliche Kreaturen als Ziel haben. Du darfst dich zwischen diesen Angriffen bewegen.",
+            "Wenn du mit einer leichten Nahkampfwaffe angreifst, kannst du als Bonusaktion mit einer anderen leichten Nahkampfwaffe in deiner anderen Hand angreifen (siehe Bonusaktion <i>Angriff mit der Nebenhand</i>).",
+            "Du kannst einen unbewaffneten Schlag nutzen, um zu <i>ringen</i>, zu <i>schubsen</i> oder Schaden zu verursachen. Um Schaden zu verursachen, mache einen Angriffswurf gegen das Ziel mit einem Bonus aus deinem Stärkemodifikator plus Übungsbonus und verursache (1 + STÄ-Modifikator) Wuchtschaden.",
+            "Manche Zustände geben Vorteil auf den Angriff: Angriffe gegen geblendete, gelähmte, versteinerten, festgehaltenen, betäubte oder bewusstlose Ziele; Nahkampfangriffe gegen liegende Ziele; Angriffe von unsichtbaren oder verborgenen Angreifern.",
+            "Manche Zustände geben Nachteil auf den Angriff: Angriffe gegen unsichtbare oder verborgene Ziele; Fernkampfangriffe gegen liegende Ziele; Angriffe von geblendeten, verängstigten, vergifteten oder festgehaltenen Angreifern."
         ]
     },
     {
-        title: "Grapple",
-        optional: "Standard rule",
+        title: "Ringen",
+        optional: "Standardregel",
         icon: "grab",
-        subtitle: "Special unarmed attack",
-        description: "Attempt to grab a creature or wrestle with it",
-        reference: "PHB, pg. 377.",
+        subtitle: "Spezieller unbewaffneter Angriff",
+        description: "Versuche, eine Kreatur zu packen oder mit ihr zu ringen",
+        reference: "PHB, S. 377.",
         bullets: [
-            "You can use the <i>Attack</i> action to make a special unarmed attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.",
-            "The target of your grapple must be no more than one size larger than you, and you have to have a hand free to grab the target.",
-            "The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the <i>Grappled</i> condition. The DC for the saving throw and any escape attempts is 8 + STR Modifier + Proficiency Bonus of the attacker."
+            "Du kannst die Aktion <i>Angriff</i> nutzen, um einen speziellen unbewaffneten Angriff auszuführen: ein Ringen. Wenn du mit der Aktion Angriff mehrere Angriffe ausführen kannst, ersetzt dieser Angriff einen davon.",
+            "Das Ziel deines Ringens darf höchstens eine Größenkategorie größer sein als du, und du musst eine Hand frei haben, um das Ziel zu packen.",
+            "Das Ziel muss einen Stärke- oder Geschicklichkeitsrettungswurf bestehen (es wählt), ansonsten erhält es den Zustand <i>Gerungen</i>. Der SG für den Rettungswurf und alle Entkommversuche beträgt 8 + STÄ-Modifikator + Übungsbonus des Angreifers."
         ]
     },
     {
-        title: "Shove",
-        optional: "Standard rule",
+        title: "Schubsen",
+        optional: "Standardregel",
         icon: "hand",
-        subtitle: "Special unarmed attack",
-        description: "Shove a creature, either to knock it prone or push it away from you",
-        reference: "PHB, pg. 377.",
+        subtitle: "Spezieller unbewaffneter Angriff",
+        description: "Schubse eine Kreatur, um sie umzuwerfen oder von dir wegzuschieben",
+        reference: "PHB, S. 377.",
         bullets: [
-            "You can use the <i>Attack</i> action to make a special unarmed attack, a shove. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.",
-            "The target of your shove must be no more than one size larger than you.",
-            "The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it will either be pushed 5 feet or knocked prone (attacker chooses which). The DC for the saving throw is 8 + STR Modifier + Proficiency Bonus of the attacker."
+            "Du kannst die Aktion <i>Angriff</i> nutzen, um einen speziellen unbewaffneten Angriff auszuführen: ein Schubsen. Wenn du mit der Aktion Angriff mehrere Angriffe ausführen kannst, ersetzt dieser Angriff einen davon.",
+            "Das Ziel deines Schubsens darf höchstens eine Größenkategorie größer sein als du.",
+            "Das Ziel muss einen Stärke- oder Geschicklichkeitsrettungswurf bestehen (es wählt), andernfalls wird es entweder 5 Fuß weggeschoben oder liegend gemacht (der Angreifer wählt). Der SG beträgt 8 + STÄ-Modifikator + Übungsbonus des Angreifers."
         ]
     },
     {
-        title: "Cast a spell",
-        optional: "Standard rule",
+        title: "Zauber wirken",
+        optional: "Standardregel",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 action",
-        description: "Cast a spell with a casting time of 1 action",
-        reference: "PHB, pg. 235-238, 363.",
+        subtitle: "Zauberzeit: 1 Aktion",
+        description: "Wirke einen Zauber mit einer Zauberzeit von 1 Aktion",
+        reference: "PHB, S. 235-238, 363.",
         bullets: [
-            "On a turn, you can expend only one spell slot to cast a spell. You can't, for example, cast a spell with a spell slot as your action and another one using your bonus action on the same turn.",
-            "The target of a spell must be within the spell's range. To target something, you must have a clear path to it, so it can't be behind total cover.",
-            "Spells with material components do not consume the material unless explicitly stated. Unless the cost of a material is given, you can assume that the cost is negligible and the material is simply available in a component pouch.",
-            "Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends. You lose concentration on a spell if you cast another spell that requires concentration or when you are incapacitated. Each time you take damage, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher, up to a maximum of 30."
+            "In einer Runde kannst du nur einen Zauberplatz ausgeben, um einen Zauber zu wirken. Du kannst z. B. nicht einen Zauber mit einem Zauberplatz als Aktion wirken und einen anderen als Bonusaktion in derselben Runde.",
+            "Das Ziel eines Zaubers muss sich in Reichweite befinden. Um etwas anzuvisieren, musst du eine freie Sichtlinie haben; es darf also nicht hinter vollständiger Deckung sein.",
+            "Zauber mit Materialkomponenten verbrauchen das Material nicht, sofern nicht ausdrücklich angegeben. Wenn keine Kosten genannt sind, kannst du davon ausgehen, dass die Kosten vernachlässigbar sind und das Material in einem Komponentenbeutel verfügbar ist.",
+            "Manche Zauber erfordern Konzentration, damit ihre Magie aktiv bleibt. Verlierst du die Konzentration, endet der Zauber. Du verlierst die Konzentration, wenn du einen anderen Zauber wirkst, der Konzentration erfordert, oder wenn du handlungsunfähig wirst. Jedes Mal, wenn du Schaden erleidest, musst du einen Konstitutionsrettungswurf machen, um die Konzentration zu halten. Der SG beträgt 10 oder die Hälfte des erlittenen Schadens – je nachdem, welcher Wert höher ist – bis maximal 30."
         ]
     },
     {
-        title: "Dash",
-        optional: "Standard rule",
+        title: "Sprinten",
+        optional: "Standardregel",
         icon: "sprint",
-        subtitle: "Double movement speed",
-        description: "Gain extra movement for the current turn",
-        reference: "PHB, pg. 365.",
+        subtitle: "Doppelte Bewegungsrate",
+        description: "Erhalte zusätzliche Bewegung für diese Runde",
+        reference: "PHB, S. 365.",
         bullets: [
-            "The increase equals your speed, after applying any modifiers."
+            "Die Erhöhung entspricht deiner Geschwindigkeit, nachdem alle Modifikatoren angewendet wurden."
         ]
     },
     {
-        title: "Disengage",
-        optional: "Standard rule",
+        title: "Rückzug",
+        optional: "Standardregel",
         icon: "journey",
-        subtitle: "Prevent opportunity attacks",
-        description: "Your movement doesn't provoke opportunity attacks for the rest of the turn",
-        reference: "PHB, pg. 366.",
+        subtitle: "Gelegenheitsangriffe verhindern",
+        description: "Deine Bewegung provoziert für den Rest der Runde keine Gelegenheitsangriffe",
+        reference: "PHB, S. 366.",
         bullets: [
         ]
     },
     {
-        title: "Dodge",
-        optional: "Standard rule",
+        title: "Ausweichen",
+        optional: "Standardregel",
         icon: "aura",
-        subtitle: "Increase defenses",
-        description: "Focus entirely on avoiding attacks",
-        reference: "PHB, pg. 366.",
+        subtitle: "Verteidigung erhöhen",
+        description: "Konzentriere dich vollständig darauf, Angriffen auszuweichen",
+        reference: "PHB, S. 366.",
         bullets: [
-            "Until the start of your next turn, any attack roll made against you has Disadvantage if you can see the attacker, and you make Dexterity saving throws with Advantage.",
-            "You lose this benefit if you are <i>Incapacitated</i> or if your speed is 0."
+            "Bis zum Beginn deiner nächsten Runde haben alle Angriffswürfe gegen dich Nachteil, wenn du den Angreifer sehen kannst, und du machst Geschicklichkeitsrettungswürfe mit Vorteil.",
+            "Du verlierst diesen Vorteil, wenn du <i>Handlungsunfähig</i> wirst oder wenn deine Geschwindigkeit 0 ist."
         ]
     },
     {
-        title: "Escape",
-        optional: "Standard rule",
+        title: "Entkommen",
+        optional: "Standardregel",
         icon: "manacles",
-        subtitle: "Escape a grapple",
-        description: "Escape a grapple",
-        reference: "PHB, pg. 367.",
+        subtitle: "Einem Ringen entkommen",
+        description: "Einem Ringen entkommen",
+        reference: "PHB, S. 367.",
         bullets: [
-            "To escape a grapple, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC.",
-            "Escaping other conditions that restrain you (such as manacles) may require a Dexterity or Strength check, as specified by the condition."
+            "Um einem Ringen zu entkommen, musst du einen Stärke- (Athletik-) oder Geschicklichkeits- (Akrobatik-)Wurf gegen den Entkommens-SG des Ringens bestehen.",
+            "Das Entkommen aus anderen Zuständen, die dich fesseln (wie Handschellen), kann einen Geschicklichkeits- oder Stärkewurf erfordern, wie es der Zustand angibt."
         ]
     },
     {
-        title: "Help",
-        optional: "Standard rule",
+        title: "Helfen",
+        optional: "Standardregel",
         icon: "telepathy",
-        subtitle: "Grant an ally advantage",
-        description: "Grant an ally advantage on an ability check or attack",
-        reference: "PHB, pg. 368.",
+        subtitle: "Gewährt einem Verbündeten Vorteil",
+        description: "Gewähre einem Verbündeten Vorteil bei einem Attributswurf oder Angriff",
+        reference: "PHB, S. 368.",
         bullets: [
-            "You can choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an ability check. That ally has Advantage on the next ability check they make with the chosen skill or tool.",
-            "Alternatively, you can choose to distract an enemy within 5 feet of you, giving Advantage to the next attack roll against that enemy.",
-            "The Advantage expires, if it is not used by the start of your next turn."
+            "Du kannst eine deiner Fertigkeits- oder Werkzeugbeherrschungen und einen Verbündeten wählen, der nahe genug ist, damit du verbal oder körperlich unterstützen kannst, wenn er einen Attributswurf macht. Dieser Verbündete hat Vorteil auf den nächsten Attributswurf mit der gewählten Fertigkeit oder dem Werkzeug.",
+            "Alternativ kannst du einen Feind innerhalb von 5 Fuß ablenken und so Vorteil auf den nächsten Angriffswurf gegen diesen Feind gewähren.",
+            "Der Vorteil verfällt, wenn er nicht bis zum Beginn deiner nächsten Runde genutzt wurde."
         ]
     },
     {
-        title: "Utilize",
-        optional: "Standard rule",
+        title: "Nutzen",
+        optional: "Standardregel",
         icon: "snatch",
-        subtitle: "Interact, use special abilities",
-        description: "Interact with an object or use special object abilities",
-        reference: "PHB, pg. 377.",
+        subtitle: "Interagieren, besondere Eigenschaften nutzen",
+        description: "Interagiere mit einem Gegenstand oder nutze besondere Gegenstandsfähigkeiten",
+        reference: "PHB, S. 377.",
         bullets: [
-            "You normally interact with an object while doing something else, such as when you draw a sword as part of the attack action.",
-            "When an object requires an action for its use, you take the <i>Utilize</i> action."
+            "Normalerweise interagierst du mit einem Gegenstand, während du etwas anderes tust, etwa wenn du beim Angriff eine Klinge ziehst.",
+            "Wenn ein Gegenstand eine Aktion für seine Benutzung erfordert, nimmst du die Aktion <i>Nutzen</i>."
         ]
     },
     {
-        title: "Use shield",
-        optional: "Standard rule",
+        title: "Schild anlegen",
+        optional: "Standardregel",
         icon: "round-shield",
-        subtitle: "Equip or unequip a shield",
-        description: "Equip or unequip a shield",
-        reference: "PHB, pgs. .",
+        subtitle: "Schild anlegen oder ablegen",
+        description: "Schild anlegen oder ablegen",
+        reference: "PHB, S.",
         bullets: [
-            "Shields require the <i>Utilize</i> action to Don or Doff.",
-            "Armor takes several minutes to equip or unequip.",
-            "You gain the Armor Class benefit of a Shield only if you have training with it."
+            "Schilde erfordern die Aktion <i>Nutzen</i>, um sie an- oder abzulegen.",
+            "Rüstung benötigt mehrere Minuten, um angelegt oder abgelegt zu werden.",
+            "Du erhältst den Rüstungsklassenbonus eines Schilds nur, wenn du darin geübt bist."
         ]
     },
     {
-        title: "Hide",
-        optional: "Standard rule",
+        title: "Verstecken",
+        optional: "Standardregel",
         icon: "hood",
-        subtitle: "Try to conceal yourself",
-        description: "Try to conceal yourself",
-        reference: "PHB, pg. 368.",
+        subtitle: "Versuche, dich zu verbergen",
+        description: "Versuche, dich zu verbergen",
+        reference: "PHB, S. 368.",
         bullets: [
-            "You must succeed on a DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind at least Three-Quarters Cover and must be out of any enemy's line of sight.",
-            "If you can see a creature, you can discern whether it can see you.",
-            "On a successful check, you have the <i>Invisible</i> condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom (Perception) check.",
-            "The condition ends immediately after you make a sound louder than a whisper, an enemy finds you, you make an attack roll or you cast a spell with a Verbal Component."
+            "Du musst einen SG-15-Geschicklichkeits- (Heimlichkeit-)Wurf bestehen, während du stark verdeckt bist oder hinter mindestens Dreivierteldeckung stehst und außerhalb jeder Sichtlinie eines Feindes bist.",
+            "Wenn du eine Kreatur sehen kannst, kannst du erkennen, ob sie dich sehen kann.",
+            "Bei einem erfolgreichen Wurf erhältst du den Zustand <i>Unsichtbar</i>. Notiere dein Gesamtergebnis; es ist der SG für eine Kreatur, dich mit einem Weisheits- (Wahrnehmung-)Wurf zu finden.",
+            "Der Zustand endet sofort, nachdem du ein Geräusch lauter als ein Flüstern machst, ein Feind dich findet, du einen Angriffswurf machst oder du einen Zauber mit verbaler Komponente wirkst."
         ]
     },
     {
-        title: "Influence",
-        optional: "Standard rule",
+        title: "Beeinflussen",
+        optional: "Standardregel",
         icon: "magnifying-glass",
-        subtitle: "Urge a monster to do something.",
-        description: "Urge a monster to do something.",
-        reference: "PHB, pg. 369.",
+        subtitle: "Fordere ein Monster zu etwas auf.",
+        description: "Fordere ein Monster zu etwas auf.",
+        reference: "PHB, S. 369.",
         bullets: [
-            "Describe or roleplay how you're communication with the creature. Trying to deceive, intimidate, amuse or persuade?",
-            "Your DM determines if an ability check is necessary."
+            "Beschreibe oder spiele aus, wie du mit der Kreatur kommunizierst. Versuchst du zu täuschen, zu intimidieren, zu amüsieren oder zu überreden?",
+            "Die SL entscheidet, ob ein Attributswurf notwendig ist."
         ]
     },
     {
-        title: "Search",
-        optional: "Standard rule",
+        title: "Suchen",
+        optional: "Standardregel",
         icon: "magnifying-glass",
-        subtitle: "Discern something, that isn't obvious.",
-        description: "Discern something, that isn't obvious.",
-        reference: "PHB, pg. 373.",
+        subtitle: "Erkenne etwas, das nicht offensichtlich ist.",
+        description: "Erkenne etwas, das nicht offensichtlich ist.",
+        reference: "PHB, S. 373.",
         bullets: [
-            "You make a Wisdom check to discern something that isn't obvious.",
-            "E.g. Creature's state of mind = Insight, Creature's ailment or cause of death = Medicine, Concealed creature or object = Perception, Tracks or Food = Survival",
-            "Your DM may request checks using other Abilities like Intellect."
+            "Du machst einen Weisheitswurf, um etwas zu erkennen, das nicht offensichtlich ist.",
+            "Z. B. Gemütszustand einer Kreatur = Einsicht, Leiden oder Todesursache = Heilkunde, verborgene Kreatur oder Gegenstand = Wahrnehmung, Spuren oder Nahrung = Überlebenskunst",
+            "Die SL kann Würfe mit anderen Eigenschaften wie Intelligenz verlangen."
         ]
     },
     {
-        title: "Study",
-        optional: "Standard rule",
+        title: "Studieren",
+        optional: "Standardregel",
         icon: "magnifying-glass",
-        subtitle: "Study your memory, a book or a clue.",
-        description: "Study your memory, a book or a clue.",
-        reference: "PHB, pg. 375.",
+        subtitle: "Studiere deine Erinnerung, ein Buch oder einen Hinweis.",
+        description: "Studiere deine Erinnerung, ein Buch oder einen Hinweis.",
+        reference: "PHB, S. 375.",
         bullets: [
-            "You make an intelligence check to study a source of knowledge and call to mind an important piece of information about it."
+            "Du machst einen Intelligenzwurf, um eine Wissensquelle zu studieren und dir eine wichtige Information darüber ins Gedächtnis zu rufen."
         ]
     },
     {
-        title: "Ready",
-        optional: "Standard rule",
+        title: "Bereithalten",
+        optional: "Standardregel",
         icon: "stopwatch",
-        subtitle: "Wait for a particular circumstance.",
-        description: "Choose a trigger and a response reaction",
-        reference: "PHB, pg. 372.",
+        subtitle: "Warte auf einen bestimmten Umstand.",
+        description: "Wähle einen Auslöser und eine Reaktion als Antwort",
+        reference: "PHB, S. 372.",
         bullets: [
-            "You take the <i>Ready</i> action on your turn, which lets you act by taking a Reaction before the start of your next turn.",
-            "Decide, what perceivable circumstance will trigger your Reaction.",
-            "Choose the action you will take in response to that trigger, or choose to move up to your Speed in response to it.",
-            "When the trigger occurs, you can either take your Reaction right after the trigger finishes or ignore the trigger.",
-            "When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration."
+            "Du nimmst in deiner Runde die Aktion <i>Bereithalten</i>, wodurch du vor Beginn deiner nächsten Runde mit einer Reaktion handeln kannst.",
+            "Entscheide, welcher wahrnehmbare Umstand deine Reaktion auslöst.",
+            "Wähle die Aktion, die du als Reaktion ausführst, oder entscheide dich, dich als Reaktion bis zu deiner Geschwindigkeit zu bewegen.",
+            "Wenn der Auslöser eintritt, kannst du deine Reaktion direkt danach nehmen oder den Auslöser ignorieren.",
+            "Wenn du einen Zauber bereithältst, wirkst du ihn wie gewohnt, hältst aber seine Energie zurück, die du mit deiner Reaktion freisetzt, wenn der Auslöser eintritt. Damit ein Zauber bereitgehalten werden kann, muss er eine Zauberzeit von 1 Aktion haben, und das Aufrechterhalten seiner Magie erfordert Konzentration."
         ]
     },
     {
-        title: "Use class feature",
-        optional: "Standard rule",
+        title: "Klassenmerkmal nutzen",
+        optional: "Standardregel",
         icon: "embrassed-energy",
-        subtitle: "Some features use actions",
-        description: "Use a racial or class feature that uses an action",
-        reference: "See class page for more information.",
+        subtitle: "Manche Merkmale nutzen Aktionen",
+        description: "Nutze ein Völker- oder Klassenmerkmal, das eine Aktion verwendet",
+        reference: "Siehe Klassenseite für weitere Informationen.",
         bullets: [
 
         ]
     },
     {
-        title: "Stabilize a creature",
-        optional: "Standard rule",
+        title: "Kreatur stabilisieren",
+        optional: "Standardregel",
         icon: "first-aid",
-        subtitle: "Stabilize a dying creature.",
-        description: "Stop a dying creature from needing to make death saving throws",
-        reference: "PHB, pg. 29.",
+        subtitle: "Stabilisiere eine sterbende Kreatur.",
+        description: "Hindere eine sterbende Kreatur daran, Todesrettungswürfe machen zu müssen",
+        reference: "PHB, S. 29.",
         bullets: [
-            "Make a Wisdom (Medicine) check with DC 10.",
-            "On a success, the creature is stable and no longer needs to make death saving throws even though it has 0 Hit Points.",
-            "if it takes damage, it stops being stable and has to make death saving throws again.",
-            "A stable creature regains 1 hit point after 1d4 hours if it isn't healed."
+            "Mache einen Weisheits- (Heilkunde-)Wurf mit SG 10.",
+            "Bei Erfolg ist die Kreatur stabil und muss keine Todesrettungswürfe mehr machen, obwohl sie 0 Trefferpunkte hat.",
+            "Wenn sie Schaden erleidet, ist sie nicht mehr stabil und muss erneut Todesrettungswürfe machen.",
+            "Eine stabile Kreatur erhält nach 1W4 Stunden 1 Trefferpunkt zurück, wenn sie nicht geheilt wird."
         ]
     },
     {
-        title: "Improvise",
-        optional: "Standard rule",
+        title: "Improvisieren",
+        optional: "Standardregel",
         icon: "juggler",
-        subtitle: "Any action not on this list",
-        description: "Perform any action you can imagine",
-        reference: "PHB, pg. 15.",
+        subtitle: "Jede Aktion, die nicht auf dieser Liste steht",
+        description: "Führe jede Handlung aus, die du dir vorstellen kannst",
+        reference: "PHB, S. 15.",
         bullets: [
-            "When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure."
+            "Wenn du eine Handlung beschreibst, die in den Regeln nicht anderswo aufgeführt ist, sagt dir die SL, ob diese Handlung möglich ist und welchen Wurf du ggf. machen musst, um Erfolg oder Misserfolg zu bestimmen."
         ]
     }
 ]

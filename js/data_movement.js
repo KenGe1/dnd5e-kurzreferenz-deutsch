@@ -1,148 +1,148 @@
 data_movement = [
     {
-        title: "Move",
-        optional: "Standard rule",
+        title: "Bewegen",
+        optional: "Standardregel",
         icon: "run",
-        subtitle: "Cost: 5ft per 5ft",
-        description: "Movement cost: 5ft per 5ft moved",
-        reference: "PHB, pg. 190.",
+        subtitle: "Kosten: 5 ft pro 5 ft",
+        description: "Bewegungskosten: 5 ft pro 5 ft Bewegung",
+        reference: "PHB, S. 190.",
         bullets: [
-            "If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed.",
-            "You can move through a nonhostile creature's space.",
-            "You can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you.",
-            "Another creature's space is difficult terrain for you.",
-            "Whether a creature is a friend or an enemy, you can't willingly end your move in its space."
+            "Wenn du mehr als eine Bewegungsrate hast, etwa deine Gehgeschwindigkeit und eine Fluggeschwindigkeit, kannst du während deiner Bewegung zwischen ihnen wechseln. Jedes Mal, wenn du wechselst, ziehst du die bereits zurückgelegte Strecke von der neuen Geschwindigkeit ab.",
+            "Du kannst den Raum einer nicht feindlichen Kreatur durchqueren.",
+            "Du kannst den Raum einer feindlichen Kreatur nur durchqueren, wenn sie mindestens zwei Größenkategorien größer oder kleiner ist als du.",
+            "Der Raum einer anderen Kreatur ist für dich schwieriges Gelände.",
+            "Egal ob Freund oder Feind: Du kannst deine Bewegung nicht freiwillig in ihrem Raum beenden."
         ]
     },
     {
-        title: "Climb",
-        optional: "Standard rule",
+        title: "Klettern",
+        optional: "Standardregel",
         icon: "crags",
-        subtitle: "Cost: 10ft per 5ft",
-        description: "Movement cost: 10ft per 5ft climbed",
-        reference: "PHB, pg. 182.",
+        subtitle: "Kosten: 10 ft pro 5 ft",
+        description: "Bewegungskosten: 10 ft pro 5 ft Klettern",
+        reference: "PHB, S. 182.",
         bullets: [
-            "May involve a Strength (Athletics) check if the climb is difficult"
+            "Kann bei schwierigen Kletterstellen einen Stärke- (Athletik-)Wurf erfordern."
         ]
     },
     {
-        title: "Swim",
-        optional: "Standard rule",
+        title: "Schwimmen",
+        optional: "Standardregel",
         icon: "at-sea",
-        subtitle: "Cost: 10ft per 5ft",
-        description: "Movement cost: 10ft per 5ft swum",
-        reference: "PHB, pg. 182.",
+        subtitle: "Kosten: 10 ft pro 5 ft",
+        description: "Bewegungskosten: 10 ft pro 5 ft Schwimmen",
+        reference: "PHB, S. 182.",
         bullets: [
-            "May involve a Strength (Athletics) check if the swim is difficult"
+            "Kann bei schwierigen Schwimmstrecken einen Stärke- (Athletik-)Wurf erfordern."
         ]
     },
     {
-        title: "Drop prone",
-        optional: "Standard rule",
+        title: "Sich fallen lassen",
+        optional: "Standardregel",
         icon: "lob-arrow",
-        subtitle: "Cost: 0ft",
-        description: "Movement cost: 0ft (free)",
-        reference: "PHB, pgs. 190-191,292.",
+        subtitle: "Kosten: 0 ft",
+        description: "Bewegungskosten: 0 ft (frei)",
+        reference: "PHB, S. 190-191, 292.",
         bullets: [
-            "You can drop prone without using any of your speed",
-            "To move while prone, you must crawl or use magic such as teleportation",
-            "Dropping prone adds the <i>Prone</i> condition (melee attacks against you have advantage, ranged attacks against you have disadvantage, your own attacks have disadvantage)"
+            "Du kannst dich fallen lassen, ohne Bewegungsrate zu verbrauchen.",
+            "Um dich liegend zu bewegen, musst du kriechen oder Magie wie Teleportation nutzen.",
+            "Sich fallen lassen verleiht den Zustand <i>Liegend</i> (Nahkampfangriffe gegen dich haben Vorteil, Fernkampfangriffe gegen dich haben Nachteil, deine eigenen Angriffe haben Nachteil)."
         ]
     },
     {
-        title: "Crawl",
-        optional: "Standard rule",
+        title: "Kriechen",
+        optional: "Standardregel",
         icon: "crawl",
-        subtitle: "Cost: 10ft per 5ft",
-        description: "Movement cost: 10ft per 5ft crawled",
-        reference: "PHB, pg. 182.",
+        subtitle: "Kosten: 10 ft pro 5 ft",
+        description: "Bewegungskosten: 10 ft pro 5 ft Kriechen",
+        reference: "PHB, S. 182.",
         bullets: [
 
         ]
     },
     {
-        title: "Stand up",
-        optional: "Standard rule",
+        title: "Aufstehen",
+        optional: "Standardregel",
         icon: "strong",
-        subtitle: "Cost: half movement speed",
-        description: "Movement cost: half of your speed",
-        reference: "PHB, pg. 190-191.",
+        subtitle: "Kosten: halbe Bewegungsrate",
+        description: "Bewegungskosten: die Hälfte deiner Geschwindigkeit",
+        reference: "PHB, S. 190-191.",
         bullets: [
-            "You can't stand up if you don't have enough movement left or if your speed is 0"
+            "Du kannst nicht aufstehen, wenn dir nicht genügend Bewegung bleibt oder wenn deine Geschwindigkeit 0 ist."
         ]
     },
     {
-        title: "High jump",
-        optional: "Standard rule",
+        title: "Hochsprung",
+        optional: "Standardregel",
         icon: "wingfoot",
-        subtitle: "Height: 3 + STR MOD",
-        description: "Height: 3 + STR MOD",
-        reference: "PHB, pg. 182.",
+        subtitle: "Höhe: 3 + STÄ-Mod",
+        description: "Höhe: 3 + STÄ-Mod",
+        reference: "PHB, S. 182.",
         bullets: [
-            "You leap into the air a number of feet equal to <b>3 + your Strength modifier</b> if you move at least 10 feet on foot immediately before the jump.",
-            "When you make a standing high jump, you can jump only half that distance.",
-            "You can extend your arms half your height above yourself during the jump.",
-            "In some circumstances, your DM might allow you to make a Strength (Athletics) check to jump higher than you normally can."
+            "Du springst eine Anzahl von Fuß in die Höhe gleich <b>3 + deinem Stärkemodifikator</b>, wenn du dich unmittelbar vor dem Sprung mindestens 10 Fuß zu Fuß bewegst.",
+            "Bei einem Hochsprung aus dem Stand springst du nur die Hälfte dieser Entfernung.",
+            "Du kannst während des Sprungs die Arme um die Hälfte deiner Körpergröße über dich hinaus strecken.",
+            "Unter Umständen kann die SL dir erlauben, einen Stärke- (Athletik-)Wurf zu machen, um höher zu springen als gewöhnlich."
         ]
     },
     {
-        title: "Long jump",
-        optional: "Standard rule",
+        title: "Weitsprung",
+        optional: "Standardregel",
         icon: "wingfoot",
-        subtitle: "Distance: STR score",
-        description: "Cost: 5ft per 5ft",
-        reference: "PHB, pg. 182.",
+        subtitle: "Weite: STÄ-Wert",
+        description: "Kosten: 5 ft pro 5 ft",
+        reference: "PHB, S. 182.",
         bullets: [
-            "You cover a number of feet up to your <b>Strength score</b> if you move at least 10 feet (run-up) on foot immediately before the jump.",
-            "When you make a standing long jump, you can leap only half that distance",
-            "May involve a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance). You hit the obstacle on a failed check.",
-            "May involve a DC 10 Dexterity (Acrobatics) check to land on your feet in difficult terrain. You land prone on a failed check."
+            "Du springst eine Anzahl von Fuß bis zu deinem <b>Stärkewert</b>, wenn du dich unmittelbar vor dem Sprung mindestens 10 Fuß (Anlauf) zu Fuß bewegst.",
+            "Bei einem Weitsprung aus dem Stand springst du nur die Hälfte dieser Entfernung.",
+            "Kann einen SG-10-Stärke- (Athletik-)Wurf erfordern, um ein niedriges Hindernis zu überwinden (nicht höher als ein Viertel der Sprungweite). Bei Misslingen prallst du gegen das Hindernis.",
+            "Kann einen SG-10-Geschicklichkeits- (Akrobatik-)Wurf erfordern, um in schwierigem Gelände auf den Füßen zu landen. Bei Misslingen landest du liegend."
         ]
     },
     {
-        title: "Improvise",
-        optional: "Standard rule",
+        title: "Improvisieren",
+        optional: "Standardregel",
         icon: "juggler",
-        subtitle: "Any stunt not on this list",
-        description: "Perform any movement or stunt you can imagine",
+        subtitle: "Jeder Trick, der nicht auf dieser Liste steht",
+        description: "Führe jede Bewegung oder jeden Trick aus, den du dir vorstellen kannst",
         bullets: [
-            "When you describe a kind of movement not detailed elsewhere in the rules, the DM tells you whether it is possible and what kind of roll you need to make, if any, to determine success or failure."
+            "Wenn du eine Bewegungsart beschreibst, die in den Regeln nicht behandelt wird, sagt dir die SL, ob sie möglich ist und welchen Wurf du ggf. machen musst, um Erfolg oder Misserfolg zu bestimmen."
         ]
     },
     {
-        title: "Difficult terrain",
-        optional: "Standard rule",
+        title: "Schwieriges Gelände",
+        optional: "Standardregel",
         icon: "stone-pile",
-        subtitle: "Cost modifier: +5ft per 5ft",
-        reference: "PHB, pg. 182.",
-        description: "Moving in difficult terrain costs an additional 5ft per 5ft of movement",
+        subtitle: "Kostenmodifikator: +5 ft pro 5 ft",
+        reference: "PHB, S. 182.",
+        description: "Bewegung in schwierigem Gelände kostet zusätzlich 5 ft pro 5 ft Bewegung",
         bullets: [
         ]
     },
     {
-        title: "Grapple move",
-        optional: "Standard rule",
+        title: "Bewegung beim Ringen",
+        optional: "Standardregel",
         icon: "grab",
-        subtitle: "Modifier: speed halved",
-        description: "Drag or carry the grappled creature with you",
-        reference: "PHB, pg. 195.",
+        subtitle: "Modifikator: Geschwindigkeit halbiert",
+        description: "Ziehe oder trage die gerungene Kreatur mit dir",
+        reference: "PHB, S. 195.",
         bullets: [
-            "If you move while grappling another creature, your speed is halved, unless the creature is two or more sizes smaller than you.",
-            "See the attack action for how to grapple a creature."
+            "Wenn du dich bewegst, während du eine andere Kreatur ringst, ist deine Geschwindigkeit halbiert, es sei denn, die Kreatur ist zwei oder mehr Größenkategorien kleiner als du.",
+            "Siehe die Aktion Angriff, um zu erfahren, wie man eine Kreatur ringt."
         ]
     },
     {
-        title: "Mount/Dismount",
-        optional: "Standard rule",
+        title: "Aufsitzen/Absitzen",
+        optional: "Standardregel",
         icon: "horse-head",
-        subtitle: "Cost: half movement speed",
-        description: "Mount or dismount a creature within 5 feet of you",
-        reference: "PHB, pg. 198.",
+        subtitle: "Kosten: halbe Bewegungsrate",
+        description: "Steige auf oder ab von einer Kreatur innerhalb von 5 Fuß",
+        reference: "PHB, S. 198.",
         bullets: [
-            "Once during your move, you can mount a creature within 5 feet of you or dismount. Doing so costs half of your movement speed",
-            "You can't mount or dismount if you don't have enough movement left or if your speed is 0.",
-            "If an effect moves your mount against its will while you're on it, or if you're knocked prone while mounted, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it.",
-            "If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet of it."
+            "Einmal während deiner Bewegung kannst du auf eine Kreatur innerhalb von 5 Fuß auf- oder absteigen. Das kostet die Hälfte deiner Bewegung.",
+            "Du kannst nicht auf- oder absteigen, wenn dir nicht genügend Bewegung bleibt oder wenn deine Geschwindigkeit 0 ist.",
+            "Wenn ein Effekt dein Reittier gegen seinen Willen bewegt, während du darauf sitzt, oder wenn du liegend geworfen wirst, musst du einen SG-10-Geschicklichkeitsrettungswurf bestehen oder vom Reittier fallen und liegend in einem Feld innerhalb von 5 Fuß landen.",
+            "Wenn dein Reittier liegend geworfen wird, kannst du deine Reaktion nutzen, um beim Sturz abzuspringen und auf den Füßen zu landen. Andernfalls fällst du liegend in einem Feld innerhalb von 5 Fuß neben dem Reittier."
         ]
     }    
 ]

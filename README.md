@@ -1,118 +1,117 @@
 # 🎲 mfriik/dnd5e-quickref v2.0
 
-> **💡 Important:**  
-> If the page looks off, sections don’t load, or you’re not seeing the newest features —  
-> **hard-refresh your browser** (`Ctrl + Shift + R` or `Ctrl + F5`).
-> This Should be purely optional as the page has logic to automatically refresh if a new version is detected and you have older version cached, but it never hurts to try 😉 
+> **💡 Wichtig:**  
+> Wenn die Seite seltsam aussieht, Bereiche nicht laden oder du die neuesten Funktionen nicht siehst —  
+> **aktualisiere deinen Browser hart** (`Strg + Umschalt + R` oder `Strg + F5`).
+> Das sollte optional sein, da die Seite automatisch aktualisiert, wenn eine neue Version erkannt wird und du eine ältere im Cache hast, aber es schadet nie 😉
 >
-> GitHub Pages and browsers aggressively cache static files,  
-> so a full reload ensures you’re running the latest version with **all recent improvements, fixes, and UI updates**.  
+> GitHub Pages und Browser cachen statische Dateien aggressiv,  
+> daher stellt ein kompletter Reload sicher, dass du die neueste Version mit **allen Verbesserungen, Fixes und UI-Updates** nutzt.  
 >
-> Think of it as your *long rest* for the app — refresh to recharge and unlock new abilities!
+> Betrachte es als deine *lange Rast* für die App — aktualisiere, um dich zu erholen und neue Fähigkeiten freizuschalten!
 
 ---
 
-## 🌐 Live View
+## 🌐 Live-Ansicht
 
-- [**mfriik.github.io/dnd5e-quickref**](https://mfriik.github.io/dnd5e-quickref/)  
-- [**dnd.milobedzki.pl**](https://dnd.milobedzki.pl/)
+Die Live-Ansicht ist verfügbar (Links wurden entfernt).
 
 ---
 
-## 🧾 What This Is
+## 🧾 Was das ist
 
-A **compact, printable, browser-friendly quick reference sheet** for *Dungeons & Dragons 5e* —  
-supporting both the classic **2014** and the updated **2024** rulesets.
+Ein **kompakter, druckbarer, browserfreundlicher Spickzettel** für *Dungeons & Dragons 5e* —  
+mit Unterstützung für die klassischen **2014**- und die aktualisierten **2024**-Regelwerke.
 
-It’s built for players and DMs who want the essentials at their fingertips —  
-**no scrolling through PDFs, no rules hunting mid-combat.**
+Er ist für Spielende und Spielleitungen gedacht, die das Wichtigste griffbereit haben wollen —  
+**kein Scrollen durch PDFs, keine Regelsuche mitten im Kampf.**
 
 ---
 
 <details>
-<summary>🧰 <strong>Core Features</strong></summary>
+<summary>🧰 <strong>Kernfunktionen</strong></summary>
 
-- ⚡ **Fast** – Lightweight static HTML/CSS/JS.
-- 🗂️ **Collapsible Sections & Items** – Expand only what you need and see everything at a glance.  
-- 🧙 **Optional & Homebrew Toggles** – Show or hide extra content on demand.  
-- 🌗 **Dark Mode** – Eye-friendly for late-night sessions.  
-- 🔄 **2014 ↔ 2024 Rules Switch** – Instantly swap between editions.  
-- 🪶 **Printer Friendly** – Perfect for physical quick sheets.  
+- ⚡ **Schnell** – Leichtgewichtiges statisches HTML/CSS/JS.
+- 🗂️ **Einklappbare Bereiche & Einträge** – Nur das öffnen, was du brauchst, und alles auf einen Blick sehen.  
+- 🧙 **Optionale & Hausregel-Schalter** – Extra-Inhalte nach Bedarf ein- oder ausblenden.  
+- 🌗 **Dunkelmodus** – Augenfreundlich für späte Sessions.  
+- 🔄 **2014 ↔ 2024 Regelwechsel** – Sofort zwischen Editionen wechseln.  
+- 🪶 **Druckfreundlich** – Perfekt für physische Spickzettel.  
 
 </details>
 
 ---
 
 <details>
-<summary>🛠️ <strong>Editing the Sheet</strong></summary>
+<summary>🛠️ <strong>Sheet bearbeiten</strong></summary>
 
-The magic lives inside the **`js/`** folder — each data file defines a rules section.
+Die Magie steckt im **`js/`**-Ordner — jede Datei definiert einen Regelabschnitt.
 
-You can:
+Du kannst:
 
-- ✏️ Add or modify **actions**, **conditions**, or **environmental effects**  
-- 🧩 Insert **custom notes** or **house rules**  
+- ✏️ **Aktionen**, **Zustände** oder **Umwelteffekte** hinzufügen oder ändern  
+- 🧩 **Eigene Notizen** oder **Hausregeln** einfügen  
 
-Changes appear instantly — **no build pipeline, no bundlers, no nonsense.**
-
-</details>
-
----
-
-<details>
-<summary>📂 <strong>Repository Layout</strong></summary>
-index.html ← main page
-css/ ← stylesheets
-js/ ← JavaScript + data files
-img/ ← icons and images
+Änderungen erscheinen sofort — **kein Build-Prozess, keine Bundler, kein Quatsch.**
 
 </details>
 
 ---
 
 <details>
-<summary>🤝 <strong>Contributing</strong></summary>
-
-- Found a bug or have an idea? → [Open an Issue](https://github.com/mfriik/dnd5e-quickref/issues)  
-- Want to add a rule or feature? → Fork → Commit → PR  
-
-When editing, keep changes **focused and well-described**.  
-For personal tweaks (like adding your own class actions), edit the `js/data` files directly — and host it for yourself.
+<summary>📂 <strong>Repository-Struktur</strong></summary>
+index.html ← Hauptseite
+css/ ← Stylesheets
+js/ ← JavaScript + Daten-Dateien
+img/ ← Icons und Bilder
 
 </details>
 
 ---
 
 <details>
-<summary>📜 <strong>Credits & Acknowledgements</strong></summary>
+<summary>🤝 <strong>Beitragen</strong></summary>
 
-- 🧩 Original project: [**crobi/dnd5e-quickref**](https://github.com/crobi/dnd5e-quickref) - DEPRECATED 
-- 🪄 2024 rules update source: [**nico-713/dnd5e-quickref-2024**](https://github.com/nico-713/dnd5e-quickref-2024) - Rules for 2024 were "Copied with pride" :P
-- ❤️ Source of certain improvement ideas and a great variant of this cheatsheet with different design choices. [**natsumeaoii/dnd5e-quickref**](https://github.com/natsumeaoii/dnd5e-quickref)
-- 🎨 Icons: [**game-icons.net**](http://game-icons.net/)  
-- 🐉 Favicon: [**iconduck.com/icons/21871/dragon**](https://iconduck.com/icons/21871/dragon)
+- Bug gefunden oder Idee? → Issue eröffnen (Link entfernt)
+- Regel oder Feature hinzufügen? → Fork → Commit → PR  
 
-</details>
-
----
-
-<details>
-<summary>⚖️ <strong>License</strong></summary>
-
-Check the `LICENSE` file in this repository.  
+Beim Bearbeiten Änderungen **fokussiert und gut beschrieben** halten.  
+Für persönliche Anpassungen (z. B. eigene Klassenaktionen) bearbeite die `js/data`-Dateien direkt — und hoste es für dich selbst.
 
 </details>
 
 ---
 
 <details>
-<summary>🧭 <strong>Contact</strong></summary>
+<summary>📜 <strong>Credits & Danksagungen</strong></summary>
 
-- 📮 Issues → [GitHub Issues Page](https://github.com/mfriik/dnd5e-quickref/issues)  
+- 🧩 Ursprüngliches Projekt: **crobi/dnd5e-quickref** – VERALTET
+- 🪄 2024-Regel-Update-Quelle: **nico-713/dnd5e-quickref-2024** – Regeln für 2024 wurden „mit Stolz kopiert“ :P
+- ❤️ Quelle für Verbesserungsideen und eine großartige Variante mit anderem Design: **natsumeaoii/dnd5e-quickref**
+- 🎨 Icons: **Game Icons**
+- 🐉 Favicon: **Iconduck – Dragon-Icon**
 
 </details>
 
 ---
 
-> **Thanks for using and improving this quick reference!**  
-> May the dice be forever in your favour!
+<details>
+<summary>⚖️ <strong>Lizenz</strong></summary>
+
+Siehe die Datei `LICENSE` in diesem Repository.
+
+</details>
+
+---
+
+<details>
+<summary>🧭 <strong>Kontakt</strong></summary>
+
+- 📮 Issues → GitHub Issues-Seite (Link entfernt)
+
+</details>
+
+---
+
+> **Danke, dass du diese Kurzreferenz nutzt und verbesserst!**  
+> Mögen die Würfel dir stets gewogen sein!
