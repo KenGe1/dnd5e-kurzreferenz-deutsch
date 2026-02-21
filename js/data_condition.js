@@ -1,6 +1,6 @@
 data_condition = [
     {
-        title: "Geblendet",
+        title: "Blind",
         optional: "Standardregel",
         icon: "one-eyed",
         subtitle: "Du kannst nichts sehen",
@@ -30,7 +30,7 @@ data_condition = [
         icon: "elf-ear",
         subtitle: "Du kannst nichts hören",
         description: "Du kannst nichts hören",
-        reference: "PHB, S. 290.",
+        reference: "PHB, S. 292.",
         bullets: [
             "Du misslingst automatisch bei jedem Attributswurf, der Hören erfordert."
         ]
@@ -55,22 +55,22 @@ data_condition = [
         icon: "sharp-smile",
         subtitle: "Du bist verängstigt",
         description: "Du bist verängstigt",
-        reference: "PHB, S. 290.",
+        reference: "PHB, S. 292.",
         bullets: [
             "Du hast Nachteil auf Attributswürfe und Angriffswürfe, solange die Quelle deiner Angst in Sichtlinie ist.",
             "Du kannst dich nicht freiwillig der Quelle deiner Angst nähern."
         ]
     },
     {
-        title: "Gerungen",
+        title: "Gepackz",
         optional: "Standardregel",
         icon: "grab",
-        subtitle: "Du bist gerungen",
-        description: "Du bist gerungen",
-        reference: "PHB, S. 290.",
+        subtitle: "Du wurdest gepackt",
+        description: "Du wurdest gepackt",
+        reference: "PHB, S. 291.",
         bullets: [
             "Deine Geschwindigkeit wird 0 und du kannst keinen Bonus auf deine Geschwindigkeit erhalten.",
-            "Der Zustand endet, wenn der Ringende handlungsunfähig wird.",
+            "Der Zustand endet, wenn der packende kampfsunfähig wird.",
             "Der Zustand endet auch, wenn du aus der Reichweite des Ringenden entfernt wirst."
         ]
     },
@@ -90,13 +90,14 @@ data_condition = [
         icon: "invisible",
         subtitle: "Du kannst nicht gesehen werden",
         description: "Du kannst ohne Hilfe von Magie oder einem besonderen Sinn nicht gesehen werden",
-        reference: "PHB, S. 291.",
+        reference: "PHB, S. 292.",
         bullets: [
-            "Für den Zweck des Versteckens bist du stark verschleiert.",
+            "Für den Zweck des Versteckens bist du komplett verschleiert.",
             "Du kannst trotzdem durch Geräusche, die du machst, oder durch Spuren, die du hinterlässt, entdeckt werden.",
             "Du hast Vorteil auf Angriffswürfe.",
             "Angriffswürfe gegen dich haben Nachteil.",
             "Ein unsichtbares Ziel kann nicht von einem Zauber anvisiert werden, der Sicht erfordert."
+            "Magie oder besondere Sinne können eine unsichtbare Kreatur erkennen."
         ]
     },
     {
@@ -105,10 +106,11 @@ data_condition = [
         icon: "internal-injury",
         subtitle: "Du bist gelähmt",
         description: "Du kannst nichts tun",
+        reference: "PHB, S. 291.",
         bullets: [
-            "Du bist handlungsunfähig und kannst dich nicht bewegen oder sprechen.",
+            "Du bistkampfunfähig und kannst dich nicht bewegen oder sprechen.",
             "Angriffswürfe gegen dich haben Vorteil.",
-            "Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist.",
+            "Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 1,5 m von dir ist.",
             "Du misslingst automatisch bei Stärke- und Geschicklichkeitsrettungswürfen."
         ]
     },
@@ -118,7 +120,7 @@ data_condition = [
         icon: "stone-pile",
         subtitle: "Du wirst zu Stein verwandelt",
         description: "Du wirst zusammen mit allen nichtmagischen Gegenständen, die du trägst oder bei dir hast, in eine feste, unbelebte Substanz (meist Stein) verwandelt",
-        reference: "PHB, S. 291.",
+        reference: "PHB, S. 292.",
         bullets: [
             "Dein Gewicht verzehnfacht sich, und du alterst nicht mehr.",
             "Du bist handlungsunfähig, kannst dich nicht bewegen oder sprechen und bist dir deiner Umgebung nicht bewusst.",
@@ -145,22 +147,22 @@ data_condition = [
         icon: "crawl",
         subtitle: "Du bist liegend",
         description: "Du bist liegend",
-        reference: "PHB, S. 292.",
+        reference: "PHB, S. 291.",
         bullets: [
             "Deine einzige Bewegungsoption ist Kriechen, außer du stehst auf.",
             "Du hast Nachteil auf Angriffswürfe.",
-            "Angriffswürfe gegen dich haben Vorteil, wenn der Angreifer innerhalb von 5 Fuß von dir ist, andernfalls haben sie Nachteil."
+            "Angriffswürfe gegen dich haben Vorteil, wenn der Angreifer innerhalb von 1,5 m von dir ist, andernfalls haben sie Nachteil."
         ]
     },
     {
-        title: "Gefesselt",
+        title: "Festgesetzt",
         optional: "Standardregel",
         icon: "imprisoned",
-        subtitle: "Du bist gefesselt",
-        description: "Du bist gefesselt",
-        reference: "PHB, S. 292.",
+        subtitle: "Du bist festgesetzt",
+        description: "Du bist festgesetzt",
+        reference: "PHB, S. 290.",
         bullets: [
-            "Deine Geschwindigkeit wird 0 und du kannst keinen Bonus auf deine Geschwindigkeit erhalten.",
+            "Deine Bewegungsrate ist 0 und du kannst keinen Bonus auf deine Geschwindigkeit erhalten.",
             "Du hast Nachteil auf Angriffswürfe.",
             "Angriffswürfe gegen dich haben Vorteil.",
             "Du hast Nachteil auf Geschicklichkeitsrettungswürfe."
@@ -172,9 +174,9 @@ data_condition = [
         icon: "internal-injury",
         subtitle: "Du bist betäubt",
         description: "Du bist betäubt",
-        reference: "PHB, S. 292.",
+        reference: "PHB, S. 290.",
         bullets: [
-            "Du bist handlungsunfähig, kannst dich nicht bewegen und nur stockend sprechen.",
+            "Du bist kampfunfähig, kannst dich nicht bewegen und nur stockend sprechen.",
             "Angriffswürfe gegen dich haben Vorteil.",
             "Du misslingst automatisch bei Stärke- und Geschicklichkeitsrettungswürfen."
         ]
@@ -185,10 +187,10 @@ data_condition = [
         icon: "coma",
         subtitle: "Du bist bewusstlos",
         description: "Du bist bewusstlos",
-        reference: "PHB, S. 292.",
+        reference: "PHB, S. 290.",
         bullets: [
-            "Du bist handlungsunfähig, kannst dich nicht bewegen oder sprechen und bist dir deiner Umgebung nicht bewusst.",
-            "Du lässt fallen, was du hältst, und fällst liegend.",
+            "Du bist kampfunfähig, kannst dich nicht bewegen oder sprechen und bist dir deiner Umgebung nicht bewusst.",
+            "Du lässt fallen, was du hältst, und fällst zu Boden (zusatnd liegend).",
             "Angriffswürfe gegen dich haben Vorteil.",
             "Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist.",
             "Du misslingst automatisch bei Stärke- und Geschicklichkeitsrettungswürfen."
