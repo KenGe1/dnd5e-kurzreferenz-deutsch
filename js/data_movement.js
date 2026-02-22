@@ -136,13 +136,13 @@ data_movement = [
         optional: "Standardregel",
         icon: "horse-head",
         subtitle: "Kosten: halbe Bewegungsrate",
-        description: "Steige auf oder ab von einer Kreatur innerhalb von 5 Fuß",
+        description: "Steige auf oder ab von einer Kreatur innerhalb von 1,5m",
         reference: "PHB, S. 198.",
         bullets: [
-            "Einmal während deiner Bewegung kannst du auf eine Kreatur innerhalb von 5 Fuß auf- oder absteigen. Das kostet die Hälfte deiner Bewegung.",
+            "Einmal während deiner Bewegung kannst du auf eine Kreatur innerhalb von 1,5m auf- oder absteigen. Das kostet die Hälfte deiner Bewegung.",
             "Du kannst nicht auf- oder absteigen, wenn dir nicht genügend Bewegung bleibt oder wenn deine Geschwindigkeit 0 ist.",
-            "Wenn ein Effekt dein Reittier gegen seinen Willen bewegt, während du darauf sitzt, oder wenn du liegend geworfen wirst, musst du einen SG-10-Geschicklichkeitsrettungswurf bestehen oder vom Reittier fallen und liegend in einem Feld innerhalb von 5 Fuß landen.",
-            "Wenn dein Reittier liegend geworfen wird, kannst du deine Reaktion nutzen, um beim Sturz abzuspringen und auf den Füßen zu landen. Andernfalls fällst du liegend in einem Feld innerhalb von 5 Fuß neben dem Reittier."
+            "Wenn ein Effekt dein Reittier gegen seinen Willen bewegt, während du darauf sitzt, oder wenn du liegend geworfen wirst, musst du einen SG-10-Geschicklichkeitsrettungswurf bestehen oder vom Reittier fallen und liegend in einem Feld innerhalb von 1,5m landen.",
+            "Wenn dein Reittier liegend geworfen wird, kannst du deine Reaktion nutzen, um beim Sturz abzuspringen und auf den Füßen zu landen. Andernfalls fällst du liegend in einem Feld innerhalb von 1,5m. neben dem Reittier."
         ]
     }    
 ]
