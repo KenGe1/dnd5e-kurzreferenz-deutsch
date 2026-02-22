@@ -477,6 +477,8 @@ function showItem(item) {
   }, 250);
 }
 
-document.documentElement.classList.remove("js-loading");
+window.addEventListener("load", function () {
+    document.documentElement.classList.remove("js-loading");
+});
 // Replace toggle logic:
 // if (shouldHide) hideItem(item); else showItem(item);
