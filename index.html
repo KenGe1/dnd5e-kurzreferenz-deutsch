@@ -11,17 +11,21 @@ document.documentElement.classList.add("js-loading");
 </script>
 
 <style>
-/* Start: unsichtbar */
-body {
+html.js-loading body {
     opacity: 0;
-    transition: opacity .4s ease;
 }
 
-/* Nach Laden: sichtbar */
-html:not(.js-loading) body {
+body {
     opacity: 1;
+    transition: opacity .4s ease;
 }
 </style>
+
+<script>
+window.addEventListener("DOMContentLoaded", function () {
+    document.documentElement.classList.remove("js-loading");
+});
+</script>
 
     <title>D&D 5e Kurzreferenz</title>
 
