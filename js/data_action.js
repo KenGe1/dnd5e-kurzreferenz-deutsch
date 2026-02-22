@@ -39,7 +39,7 @@ data_action = [
             "Mit der Aktion <i>Angriff</i> kannst du einen speziellen Nahkampfangriff ausführen, um eine Kreatur zu schubsen. Wenn du mit der Aktion Angriff mehrere Angriffe ausführen kannst, ersetzt dieser Angriff einen davon.",
             "Das Ziel deines Schubsens darf höchstens eine Größenkategorie größer sein als du und muss sich in deiner Reichweite befinden.",
             "Du machst einen Stärke- (Athletik-)Wurf, der durch einen Stärke- (Athletik-) oder Geschicklichkeits- (Akrobatik-)Wurf des Ziels angefochten wird (das Ziel wählt die Eigenschaft).",
-            "Wenn du den Wettstreit gewinnst, wirfst du das Ziel entweder um oder schiebst es 5 Fuß von dir weg."
+            "Wenn du den Wettstreit gewinnst, wirfst du das Ziel entweder um oder schiebst es 1,5m von dir weg."
         ]
     },
     {
@@ -53,7 +53,7 @@ data_action = [
             "(Optionale Regel):",
             "Mit dieser Option nutzt eine Kreatur den speziellen Schubangriff, um ein Ziel zur Seite zu drängen.",
             "Der Angreifer hat dabei Nachteil auf seinen Stärke- (Athletik-)Wurf.",
-            "Bei Erfolg bewegt der Angreifer das Ziel 5 Fuß in ein anderes Feld innerhalb seiner Reichweite."
+            "Bei Erfolg bewegt der Angreifer das Ziel 1,5m in ein anderes Feld innerhalb seiner Reichweite."
         ]
     },
     {
@@ -124,7 +124,7 @@ data_action = [
         reference: "PHB, S. 192.",
         bullets: [
             "Das Ziel erhält Vorteil auf den nächsten Attributswurf, den es macht, um die Aufgabe zu erfüllen, bei der du hilfst.",
-            "Alternativ erhält das Ziel Vorteil auf den nächsten Angriffswurf gegen eine Kreatur innerhalb von 5 Fuß von dir.",
+            "Alternativ erhält das Ziel Vorteil auf den nächsten Angriffswurf gegen eine Kreatur innerhalb von 1,5m von dir.",
             "Der Vorteil hält bis zum Beginn deiner nächsten Runde an."
         ]
     },

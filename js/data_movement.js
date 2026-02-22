@@ -79,7 +79,7 @@ data_movement = [
         description: "Höhe: 3 + STÄ-Mod",
         reference: "PHB, S. 182.",
         bullets: [
-            "Du springst eine Anzahl von Fuß in die Höhe gleich <b>3 + deinem Stärkemodifikator</b>, wenn du dich unmittelbar vor dem Sprung mindestens 3 m zu Fuß bewegst.",
+            "Du springst eine Anzahl von metern in die Höhe gleich <b>3 + deinem Stärkemodifikator</b>, wenn du dich unmittelbar vor dem Sprung mindestens 3 m zu Fuß bewegst.",
             "Bei einem Hochsprung aus dem Stand springst du nur die Hälfte dieser Entfernung.",
             "Du kannst während des Sprungs die Arme um die Hälfte deiner Körpergröße über dich hinaus strecken.",
             "Unter Umständen kann die SL dir erlauben, einen Stärke- (Athletik-)Wurf zu machen, um höher zu springen als gewöhnlich."
@@ -93,7 +93,7 @@ data_movement = [
         description: "Kosten: 1,5m pro 1,5m",
         reference: "PHB, S. 182.",
         bullets: [
-            "Du springst eine Anzahl von Fuß bis zu deinem <b>Stärkewert</b>, wenn du dich unmittelbar vor dem Sprung mindestens 10 Fuß (Anlauf) zu Fuß bewegst.",
+            "Du springst eine Anzahl von metern bis zu deinem <b>Stärkewert</b>, wenn du dich unmittelbar vor dem Sprung mindestens 3m (Anlauf) zu Fuß bewegst.",
             "Bei einem Weitsprung aus dem Stand springst du nur die Hälfte dieser Entfernung.",
             "Kann einen SG-10-Stärke- (Athletik-)Wurf erfordern, um ein niedriges Hindernis zu überwinden (nicht höher als ein Viertel der Sprungweite). Bei Misslingen prallst du gegen das Hindernis.",
             "Kann einen SG-10-Geschicklichkeits- (Akrobatik-)Wurf erfordern, um in schwierigem Gelände auf den Füßen zu landen. Bei Misslingen landest du liegend."

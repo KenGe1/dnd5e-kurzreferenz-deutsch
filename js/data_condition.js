@@ -110,7 +110,7 @@ data_condition = [
         bullets: [
             "Du bistkampfunfähig und kannst dich nicht bewegen oder sprechen.",
             "Angriffswürfe gegen dich haben Vorteil.",
-            "Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 1,5 m von dir ist.",
+            "Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 1,5m von dir ist.",
             "Du misslingst automatisch bei Stärke- und Geschicklichkeitsrettungswürfen."
         ]
     },
@@ -151,7 +151,7 @@ data_condition = [
         bullets: [
             "Deine einzige Bewegungsoption ist Kriechen, außer du stehst auf.",
             "Du hast Nachteil auf Angriffswürfe.",
-            "Angriffswürfe gegen dich haben Vorteil, wenn der Angreifer innerhalb von 1,5 m von dir ist, andernfalls haben sie Nachteil."
+            "Angriffswürfe gegen dich haben Vorteil, wenn der Angreifer innerhalb von 1,5m von dir ist, andernfalls haben sie Nachteil."
         ]
     },
     {
