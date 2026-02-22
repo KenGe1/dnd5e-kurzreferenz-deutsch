@@ -11,14 +11,14 @@ document.documentElement.classList.add("js-loading");
 </script>
 
 <style>
-/* Standardzustand: sichtbar + Fade möglich */
+/* Start: unsichtbar */
 body {
     opacity: 0;
-    transition: opacity .3s ease;
+    transition: opacity .4s ease;
 }
 
-/* Während JS lädt: sofort unsichtbar (ohne Animation) */
-html.js-loading body {
+/* Nach Laden: sichtbar */
+html:not(.js-loading) body {
     opacity: 1;
 }
 </style>
