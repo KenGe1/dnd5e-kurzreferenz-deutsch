@@ -18,3 +18,10 @@ Damit funktioniert die Seite bereits vollständig lokal.
 
 Wenn du später auch separate Dateien für Bold/Italic hast, kann `css/fonts.css` leicht erweitert werden,
 damit echte Schnitte statt Browser-Simulation verwendet werden.
+
+## Zusätzlich für Block-Überschriften
+
+Die Überschriften der Blöcke (z. B. Bewegung, Aktion, Bonusaktion) nutzen lokal:
+
+- `medievalsharp-v28-latin-regular.woff2`
+
