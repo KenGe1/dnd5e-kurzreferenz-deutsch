@@ -62,7 +62,7 @@ data_condition = [
         ]
     },
     {
-        title: "Gepackz",
+        title: "Gepackt",
         optional: "Standardregel",
         icon: "grab",
         subtitle: "Du wurdest gepackt",
@@ -106,7 +106,6 @@ data_condition = [
         icon: "internal-injury",
         subtitle: "Du bist gelähmt",
         description: "Du kannst nichts tun",
-        reference: "PHB, S. 291.",
         bullets: [
             "Du bistkampfunfähig und kannst dich nicht bewegen oder sprechen.",
             "Angriffswürfe gegen dich haben Vorteil.",
