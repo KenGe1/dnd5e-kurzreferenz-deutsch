@@ -1,0 +1,1226 @@
+[
+  {
+    "id": 1,
+    "name": "Ausbessern",
+    "level": 0,
+    "spell_description_id": 17
+  },
+  {
+    "id": 2,
+    "name": "Botschaft",
+    "level": 0,
+    "spell_description_id": 28
+  },
+  {
+    "id": 3,
+    "name": "Einfache Illusion",
+    "level": 0,
+    "spell_description_id": 41
+  },
+  {
+    "id": 4,
+    "name": "Feuerpfeil",
+    "level": 0,
+    "spell_description_id": 62
+  },
+  {
+    "id": 5,
+    "name": "Gift versprühen",
+    "level": 0,
+    "spell_description_id": 95
+  },
+  {
+    "id": 6,
+    "name": "Kalte Hand",
+    "level": 0,
+    "spell_description_id": 123
+  },
+  {
+    "id": 7,
+    "name": "Kältestrahl",
+    "level": 0,
+    "spell_description_id": 125
+  },
+  {
+    "id": 8,
+    "name": "Licht",
+    "level": 0,
+    "spell_description_id": 139
+  },
+  {
+    "id": 9,
+    "name": "Magierhand",
+    "level": 0,
+    "spell_description_id": 144
+  },
+  {
+    "id": 10,
+    "name": "Säurespritzer",
+    "level": 0,
+    "spell_description_id": 190
+  },
+  {
+    "id": 11,
+    "name": "Schockgriff",
+    "level": 0,
+    "spell_description_id": 197
+  },
+  {
+    "id": 12,
+    "name": "Tanzende Lichter",
+    "level": 0,
+    "spell_description_id": 237
+  },
+  {
+    "id": 13,
+    "name": "Taschenspielerei",
+    "level": 0,
+    "spell_description_id": 238
+  },
+  {
+    "id": 14,
+    "name": "Zielsicherer Schlag",
+    "level": 0,
+    "spell_description_id": 317
+  },
+  {
+    "id": 15,
+    "name": "Alarm",
+    "level": 1,
+    "spell_description_id": 2
+  },
+  {
+    "id": 16,
+    "name": "Brennende Hände",
+    "level": 1,
+    "spell_description_id": 30
+  },
+  {
+    "id": 17,
+    "name": "Donnerwoge",
+    "level": 1,
+    "spell_description_id": 34
+  },
+  {
+    "id": 18,
+    "name": "Falsches Leben",
+    "level": 1,
+    "spell_description_id": 56
+  },
+  {
+    "id": 19,
+    "name": "Federfall",
+    "level": 1,
+    "spell_description_id": 57
+  },
+  {
+    "id": 20,
+    "name": "Fürchterlicher Lachanfall",
+    "level": 1,
+    "spell_description_id": 79
+  },
+  {
+    "id": 21,
+    "name": "Identifizieren",
+    "level": 1,
+    "spell_description_id": null
+  },
+  {
+    "id": 22,
+    "name": "Illusionsschrift",
+    "level": 1,
+    "spell_description_id": 120
+  },
+  {
+    "id": 23,
+    "name": "Lange Schritte",
+    "level": 1,
+    "spell_description_id": 134
+  },
+  {
+    "id": 24,
+    "name": "Lautloses Trugbild",
+    "level": 1,
+    "spell_description_id": 135
+  },
+  {
+    "id": 25,
+    "name": "Magie entdecken",
+    "level": 1,
+    "spell_description_id": 143
+  },
+  {
+    "id": 26,
+    "name": "Magierrüstung",
+    "level": 1,
+    "spell_description_id": 145
+  },
+  {
+    "id": 27,
+    "name": "Magisches Geschoss",
+    "level": 1,
+    "spell_description_id": 150
+  },
+  {
+    "id": 28,
+    "name": "Nebelwolke",
+    "level": 1,
+    "spell_description_id": 167
+  },
+  {
+    "id": 29,
+    "name": "Person bezaubern",
+    "level": 1,
+    "spell_description_id": 171
+  },
+  {
+    "id": 30,
+    "name": "Rascher Rückzug",
+    "level": 1,
+    "spell_description_id": 177
+  },
+  {
+    "id": 31,
+    "name": "Schild",
+    "level": 1,
+    "spell_description_id": 192
+  },
+  {
+    "id": 32,
+    "name": "Schlaf",
+    "level": 1,
+    "spell_description_id": 194
+  },
+  {
+    "id": 33,
+    "name": "Schmieren",
+    "level": 1,
+    "spell_description_id": 195
+  },
+  {
+    "id": 34,
+    "name": "Schutz vor Gut und Böse",
+    "level": 1,
+    "spell_description_id": 200
+  },
+  {
+    "id": 35,
+    "name": "Schwebende Scheibe",
+    "level": 1,
+    "spell_description_id": 211
+  },
+  {
+    "id": 36,
+    "name": "Selbstverkleidung",
+    "level": 1,
+    "spell_description_id": 215
+  },
+  {
+    "id": 37,
+    "name": "Sprachen verstehen",
+    "level": 1,
+    "spell_description_id": 225
+  },
+  {
+    "id": 38,
+    "name": "Springen",
+    "level": 1,
+    "spell_description_id": 226
+  },
+  {
+    "id": 39,
+    "name": "Sprühende Farben",
+    "level": 1,
+    "spell_description_id": 227
+  },
+  {
+    "id": 40,
+    "name": "Unsichtbarer Diener",
+    "level": 1,
+    "spell_description_id": 262
+  },
+  {
+    "id": 41,
+    "name": "Vertrauten finden",
+    "level": 1,
+    "spell_description_id": 280
+  },
+  {
+    "id": 42,
+    "name": "Arkanes Schloss",
+    "level": 2,
+    "spell_description_id": 9
+  },
+  {
+    "id": 43,
+    "name": "Blindheit/Taubheit",
+    "level": 2,
+    "spell_description_id": 24
+  },
+  {
+    "id": 44,
+    "name": "Dauerhafte Flamme",
+    "level": 2,
+    "spell_description_id": 32
+  },
+  {
+    "id": 45,
+    "name": "Dunkelheit",
+    "level": 2,
+    "spell_description_id": 38
+  },
+  {
+    "id": 46,
+    "name": "Dunkelsicht",
+    "level": 2,
+    "spell_description_id": 39
+  },
+  {
+    "id": 47,
+    "name": "Einflüsterung",
+    "level": 2,
+    "spell_description_id": 42
+  },
+  {
+    "id": 48,
+    "name": "Flammenkugel",
+    "level": 2,
+    "spell_description_id": 70
+  },
+  {
+    "id": 49,
+    "name": "Gedanken wahrnehmen",
+    "level": 2,
+    "spell_description_id": 83
+  },
+  {
+    "id": 50,
+    "name": "Gegenstand aufspüren",
+    "level": 2,
+    "spell_description_id": 86
+  },
+  {
+    "id": 51,
+    "name": "Gestalt verändern",
+    "level": 2,
+    "spell_description_id": 92
+  },
+  {
+    "id": 52,
+    "name": "Klopfen",
+    "level": 2,
+    "spell_description_id": 129
+  },
+  {
+    "id": 53,
+    "name": "Magische Aura des Arkanisten",
+    "level": 2,
+    "spell_description_id": 146
+  },
+  {
+    "id": 54,
+    "name": "Magische Waffe",
+    "level": 2,
+    "spell_description_id": 147
+  },
+  {
+    "id": 55,
+    "name": "Magischer Mund",
+    "level": 2,
+    "spell_description_id": 148
+  },
+  {
+    "id": 56,
+    "name": "Nebelschritt",
+    "level": 2,
+    "spell_description_id": 166
+  },
+  {
+    "id": 57,
+    "name": "Netz",
+    "level": 2,
+    "spell_description_id": 168
+  },
+  {
+    "id": 58,
+    "name": "Person festhalten",
+    "level": 2,
+    "spell_description_id": 172
+  },
+  {
+    "id": 59,
+    "name": "Sanfte Ruhe",
+    "level": 2,
+    "spell_description_id": 188
+  },
+  {
+    "id": 60,
+    "name": "Säurepfeil",
+    "level": 2,
+    "spell_description_id": 189
+  },
+  {
+    "id": 61,
+    "name": "Schwächestrahl",
+    "level": 2,
+    "spell_description_id": 207
+  },
+  {
+    "id": 62,
+    "name": "Schweben",
+    "level": 2,
+    "spell_description_id": 210
+  },
+  {
+    "id": 63,
+    "name": "Seiltrick",
+    "level": 2,
+    "spell_description_id": 214
+  },
+  {
+    "id": 64,
+    "name": "Sengender Strahl",
+    "level": 2,
+    "spell_description_id": 216
+  },
+  {
+    "id": 65,
+    "name": "Spiegelbilder",
+    "level": 2,
+    "spell_description_id": 223
+  },
+  {
+    "id": 66,
+    "name": "Spinnenklettern",
+    "level": 2,
+    "spell_description_id": 224
+  },
+  {
+    "id": 67,
+    "name": "Unsichtbares sehen",
+    "level": 2,
+    "spell_description_id": 263
+  },
+  {
+    "id": 68,
+    "name": "Unsichtbarkeit",
+    "level": 2,
+    "spell_description_id": 264
+  },
+  {
+    "id": 69,
+    "name": "Vergrößern/Verkleinern",
+    "level": 2,
+    "spell_description_id": 274
+  },
+  {
+    "id": 70,
+    "name": "Verschwimmen",
+    "level": 2,
+    "spell_description_id": 277
+  },
+  {
+    "id": 71,
+    "name": "Windstoß",
+    "level": 2,
+    "spell_description_id": 305
+  },
+  {
+    "id": 72,
+    "name": "Zerbersten",
+    "level": 2,
+    "spell_description_id": 316
+  },
+  {
+    "id": 73,
+    "name": "Blitz",
+    "level": 3,
+    "spell_description_id": 25
+  },
+  {
+    "id": 74,
+    "name": "Feuerball",
+    "level": 3,
+    "spell_description_id": 61
+  },
+  {
+    "id": 75,
+    "name": "Fliegen",
+    "level": 3,
+    "spell_description_id": 73
+  },
+  {
+    "id": 76,
+    "name": "Flimmern",
+    "level": 3,
+    "spell_description_id": 74
+  },
+  {
+    "id": 77,
+    "name": "Fluch",
+    "level": 3,
+    "spell_description_id": 75
+  },
+  {
+    "id": 78,
+    "name": "Fluch brechen",
+    "level": 3,
+    "spell_description_id": 76
+  },
+  {
+    "id": 79,
+    "name": "Furcht",
+    "level": 3,
+    "spell_description_id": 78
+  },
+  {
+    "id": 80,
+    "name": "Gasförmige Gestalt",
+    "level": 3,
+    "spell_description_id": 80
+  },
+  {
+    "id": 81,
+    "name": "Gegenzauber",
+    "level": 3,
+    "spell_description_id": 88
+  },
+  {
+    "id": 82,
+    "name": "Geisterross",
+    "level": 3,
+    "spell_description_id": 91
+  },
+  {
+    "id": 83,
+    "name": "Glyphe des Schutzes",
+    "level": 3,
+    "spell_description_id": 96
+  },
+  {
+    "id": 84,
+    "name": "Hast",
+    "level": 3,
+    "spell_description_id": 104
+  },
+  {
+    "id": 85,
+    "name": "Hellsehen",
+    "level": 3,
+    "spell_description_id": 113
+  },
+  {
+    "id": 86,
+    "name": "Hypnotisches Muster",
+    "level": 3,
+    "spell_description_id": 118
+  },
+  {
+    "id": 87,
+    "name": "Mächtiges Trugbild",
+    "level": 3,
+    "spell_description_id": 141
+  },
+  {
+    "id": 88,
+    "name": "Magie bannen",
+    "level": 3,
+    "spell_description_id": 142
+  },
+  {
+    "id": 89,
+    "name": "Schneesturm",
+    "level": 3,
+    "spell_description_id": 196
+  },
+  {
+    "id": 90,
+    "name": "Schutz vor Energie",
+    "level": 3,
+    "spell_description_id": 198
+  },
+  {
+    "id": 91,
+    "name": "Schutzkreis",
+    "level": 3,
+    "spell_description_id": 204
+  },
+  {
+    "id": 92,
+    "name": "Stinkende Wolke",
+    "level": 3,
+    "spell_description_id": 233
+  },
+  {
+    "id": 93,
+    "name": "Tote beleben",
+    "level": 3,
+    "spell_description_id": 254
+  },
+  {
+    "id": 94,
+    "name": "Unauffindbarkeit",
+    "level": 3,
+    "spell_description_id": 259
+  },
+  {
+    "id": 95,
+    "name": "Vampirgriff",
+    "level": 3,
+    "spell_description_id": 268
+  },
+  {
+    "id": 96,
+    "name": "Verlangsamen",
+    "level": 3,
+    "spell_description_id": 275
+  },
+  {
+    "id": 97,
+    "name": "Verständigung",
+    "level": 3,
+    "spell_description_id": 278
+  },
+  {
+    "id": 98,
+    "name": "Wasser atmen",
+    "level": 3,
+    "spell_description_id": 294
+  },
+  {
+    "id": 99,
+    "name": "Winzige Hütte",
+    "level": 3,
+    "spell_description_id": 308
+  },
+  {
+    "id": 100,
+    "name": "Zungen",
+    "level": 3,
+    "spell_description_id": 319
+  },
+  {
+    "id": 101,
+    "name": "Arkanes Auge",
+    "level": 4,
+    "spell_description_id": 8
+  },
+  {
+    "id": 102,
+    "name": "Dimensionstür",
+    "level": 4,
+    "spell_description_id": 33
+  },
+  {
+    "id": 103,
+    "name": "Eissturm",
+    "level": 4,
+    "spell_description_id": 45
+  },
+  {
+    "id": 104,
+    "name": "Feuerschild",
+    "level": 4,
+    "spell_description_id": 63
+  },
+  {
+    "id": 105,
+    "name": "Feuerwand",
+    "level": 4,
+    "spell_description_id": 65
+  },
+  {
+    "id": 106,
+    "name": "Geheime Truhe",
+    "level": 4,
+    "spell_description_id": 90
+  },
+  {
+    "id": 107,
+    "name": "Kreatur aufspüren",
+    "level": 4,
+    "spell_description_id": 131
+  },
+  {
+    "id": 108,
+    "name": "Mächtige Unsichtbarkeit",
+    "level": 4,
+    "spell_description_id": 140
+  },
+  {
+    "id": 109,
+    "name": "Plage",
+    "level": 4,
+    "spell_description_id": 175
+  },
+  {
+    "id": 110,
+    "name": "Privates Heiligtum",
+    "level": 4,
+    "spell_description_id": 176
+  },
+  {
+    "id": 111,
+    "name": "Scheingelände",
+    "level": 4,
+    "spell_description_id": 191
+  },
+  {
+    "id": 112,
+    "name": "Schwache Elementare beschwören",
+    "level": 4,
+    "spell_description_id": 205
+  },
+  {
+    "id": 113,
+    "name": "Schwarze Tentakel",
+    "level": 4,
+    "spell_description_id": 209
+  },
+  {
+    "id": 114,
+    "name": "Stein formen",
+    "level": 4,
+    "spell_description_id": 229
+  },
+  {
+    "id": 115,
+    "name": "Steinhaut",
+    "level": 4,
+    "spell_description_id": 230
+  },
+  {
+    "id": 116,
+    "name": "Tödliches Phantom",
+    "level": 4,
+    "spell_description_id": 252
+  },
+  {
+    "id": 117,
+    "name": "Treuer Hund",
+    "level": 4,
+    "spell_description_id": 257
+  },
+  {
+    "id": 118,
+    "name": "Unverwüstliche Sphäre",
+    "level": 4,
+    "spell_description_id": 266
+  },
+  {
+    "id": 119,
+    "name": "Verarbeitung",
+    "level": 4,
+    "spell_description_id": 269
+  },
+  {
+    "id": 120,
+    "name": "Verbannung",
+    "level": 4,
+    "spell_description_id": 270
+  },
+  {
+    "id": 121,
+    "name": "Verwandlung",
+    "level": 4,
+    "spell_description_id": 281
+  },
+  {
+    "id": 122,
+    "name": "Verwirrung",
+    "level": 4,
+    "spell_description_id": 282
+  },
+  {
+    "id": 123,
+    "name": "Wasser kontrollieren",
+    "level": 4,
+    "spell_description_id": 296
+  },
+  {
+    "id": 124,
+    "name": "Ablenkung",
+    "level": 5,
+    "spell_description_id": 1
+  },
+  {
+    "id": 125,
+    "name": "Arkane Hand",
+    "level": 5,
+    "spell_description_id": 6
+  },
+  {
+    "id": 126,
+    "name": "Äußerlichkeiten",
+    "level": 5,
+    "spell_description_id": 18
+  },
+  {
+    "id": 127,
+    "name": "Ausspähung",
+    "level": 5,
+    "spell_description_id": 19
+  },
+  {
+    "id": 128,
+    "name": "Bindung der Ebenen",
+    "level": 5,
+    "spell_description_id": 23
+  },
+  {
+    "id": 129,
+    "name": "Elementar beschwören",
+    "level": 5,
+    "spell_description_id": 47
+  },
+  {
+    "id": 130,
+    "name": "Energiewand",
+    "level": 5,
+    "spell_description_id": 49
+  },
+  {
+    "id": 131,
+    "name": "Erinnerung verändern",
+    "level": 5,
+    "spell_description_id": 52
+  },
+  {
+    "id": 132,
+    "name": "Erschaffung",
+    "level": 5,
+    "spell_description_id": 53
+  },
+  {
+    "id": 133,
+    "name": "Geas",
+    "level": 5,
+    "spell_description_id": 81
+  },
+  {
+    "id": 134,
+    "name": "Gegenstände beleben",
+    "level": 5,
+    "spell_description_id": 87
+  },
+  {
+    "id": 135,
+    "name": "Kältekegel",
+    "level": 5,
+    "spell_description_id": 124
+  },
+  {
+    "id": 136,
+    "name": "Kontakt zu anderen Ebenen",
+    "level": 5,
+    "spell_description_id": 130
+  },
+  {
+    "id": 137,
+    "name": "Kreis der Teleportation",
+    "level": 5,
+    "spell_description_id": 132
+  },
+  {
+    "id": 138,
+    "name": "Monster festhalten",
+    "level": 5,
+    "spell_description_id": 163
+  },
+  {
+    "id": 139,
+    "name": "Person beherrschen",
+    "level": 5,
+    "spell_description_id": 170
+  },
+  {
+    "id": 140,
+    "name": "Sagenkunde",
+    "level": 5,
+    "spell_description_id": 187
+  },
+  {
+    "id": 141,
+    "name": "Steinwand",
+    "level": 5,
+    "spell_description_id": 231
+  },
+  {
+    "id": 142,
+    "name": "Telekinese",
+    "level": 5,
+    "spell_description_id": 239
+  },
+  {
+    "id": 143,
+    "name": "Telepathische Bindung",
+    "level": 5,
+    "spell_description_id": 240
+  },
+  {
+    "id": 144,
+    "name": "Todeswolke",
+    "level": 5,
+    "spell_description_id": 251
+  },
+  {
+    "id": 145,
+    "name": "Traum",
+    "level": 5,
+    "spell_description_id": 256
+  },
+  {
+    "id": 146,
+    "name": "Wände passieren",
+    "level": 5,
+    "spell_description_id": 293
+  },
+  {
+    "id": 147,
+    "name": "Auflösung",
+    "level": 6,
+    "spell_description_id": 16
+  },
+  {
+    "id": 148,
+    "name": "Böser Blick",
+    "level": 6,
+    "spell_description_id": 27
+  },
+  {
+    "id": 149,
+    "name": "Eiswand",
+    "level": 6,
+    "spell_description_id": 46
+  },
+  {
+    "id": 150,
+    "name": "Erde bewegen",
+    "level": 6,
+    "spell_description_id": 51
+  },
+  {
+    "id": 151,
+    "name": "Fleisch zu Stein",
+    "level": 6,
+    "spell_description_id": 72
+  },
+  {
+    "id": 152,
+    "name": "Frostsphäre",
+    "level": 6,
+    "spell_description_id": 77
+  },
+  {
+    "id": 153,
+    "name": "Kettenblitz",
+    "level": 6,
+    "spell_description_id": 126
+  },
+  {
+    "id": 154,
+    "name": "Kugel der Unverwundbarkeit",
+    "level": 6,
+    "spell_description_id": 133
+  },
+  {
+    "id": 155,
+    "name": "Magisches Gefäß",
+    "level": 6,
+    "spell_description_id": 149
+  },
+  {
+    "id": 156,
+    "name": "Massen-Einflüsterung",
+    "level": 6,
+    "spell_description_id": 151
+  },
+  {
+    "id": 157,
+    "name": "Notfall",
+    "level": 6,
+    "spell_description_id": 169
+  },
+  {
+    "id": 158,
+    "name": "Sofortige Beschwörung",
+    "level": 6,
+    "spell_description_id": 219
+  },
+  {
+    "id": 159,
+    "name": "Sonnenstrahl",
+    "level": 6,
+    "spell_description_id": 221
+  },
+  {
+    "id": 160,
+    "name": "Todeskreis",
+    "level": 6,
+    "spell_description_id": 249
+  },
+  {
+    "id": 161,
+    "name": "Untote erschaffen",
+    "level": 6,
+    "spell_description_id": 265
+  },
+  {
+    "id": 162,
+    "name": "Unwiderstehlicher Tanz",
+    "level": 6,
+    "spell_description_id": 267
+  },
+  {
+    "id": 163,
+    "name": "Vorbestimmtes Trugbild",
+    "level": 6,
+    "spell_description_id": 286
+  },
+  {
+    "id": 164,
+    "name": "Wächter und Hüter",
+    "level": 6,
+    "spell_description_id": 287
+  },
+  {
+    "id": 165,
+    "name": "Wahrer Blick",
+    "level": 6,
+    "spell_description_id": 292
+  },
+  {
+    "id": 166,
+    "name": "Arkane Spiegelung",
+    "level": 7,
+    "spell_description_id": 7
+  },
+  {
+    "id": 167,
+    "name": "Arkanes Schwert",
+    "level": 7,
+    "spell_description_id": 10
+  },
+  {
+    "id": 168,
+    "name": "Ätherische Gestalten",
+    "level": 7,
+    "spell_description_id": 12
+  },
+  {
+    "id": 169,
+    "name": "Ebenenwechsel",
+    "level": 7,
+    "spell_description_id": 40
+  },
+  {
+    "id": 170,
+    "name": "Energiekäfig",
+    "level": 7,
+    "spell_description_id": 48
+  },
+  {
+    "id": 171,
+    "name": "Finger des Todes",
+    "level": 7,
+    "spell_description_id": 66
+  },
+  {
+    "id": 172,
+    "name": "Herrliches Herrenhaus",
+    "level": 7,
+    "spell_description_id": 114
+  },
+  {
+    "id": 173,
+    "name": "Regenbogenspiel",
+    "level": 7,
+    "spell_description_id": 179
+  },
+  {
+    "id": 174,
+    "name": "Schwerkraft umkehren",
+    "level": 7,
+    "spell_description_id": 212
+  },
+  {
+    "id": 175,
+    "name": "Simulakrum",
+    "level": 7,
+    "spell_description_id": 218
+  },
+  {
+    "id": 176,
+    "name": "Spätzündender Feuerball",
+    "level": 7,
+    "spell_description_id": 222
+  },
+  {
+    "id": 177,
+    "name": "Symbol",
+    "level": 7,
+    "spell_description_id": 235
+  },
+  {
+    "id": 178,
+    "name": "Teleportieren",
+    "level": 7,
+    "spell_description_id": 241
+  },
+  {
+    "id": 179,
+    "name": "Trugbild projizieren",
+    "level": 7,
+    "spell_description_id": 258
+  },
+  {
+    "id": 180,
+    "name": "Verbergen",
+    "level": 7,
+    "spell_description_id": 271
+  },
+  {
+    "id": 181,
+    "name": "Antimagisches Feld",
+    "level": 8,
+    "spell_description_id": 4
+  },
+  {
+    "id": 182,
+    "name": "Antipathie/Sympathie",
+    "level": 8,
+    "spell_description_id": 5
+  },
+  {
+    "id": 183,
+    "name": "Flammende Wolke",
+    "level": 8,
+    "spell_description_id": 68
+  },
+  {
+    "id": 184,
+    "name": "Gedankenleere",
+    "level": 8,
+    "spell_description_id": 84
+  },
+  {
+    "id": 185,
+    "name": "Halbebene",
+    "level": 8,
+    "spell_description_id": 103
+  },
+  {
+    "id": 186,
+    "name": "Irrgarten",
+    "level": 8,
+    "spell_description_id": 122
+  },
+  {
+    "id": 187,
+    "name": "Klon",
+    "level": 8,
+    "spell_description_id": 128
+  },
+  {
+    "id": 188,
+    "name": "Monster beherrschen",
+    "level": 8,
+    "spell_description_id": 162
+  },
+  {
+    "id": 189,
+    "name": "Schwachsinn",
+    "level": 8,
+    "spell_description_id": 208
+  },
+  {
+    "id": 190,
+    "name": "Sonnenfeuer",
+    "level": 8,
+    "spell_description_id": 220
+  },
+  {
+    "id": 191,
+    "name": "Wetterkontrolle",
+    "level": 8,
+    "spell_description_id": 301
+  },
+  {
+    "id": 192,
+    "name": "Wort der Macht: Betäubung",
+    "level": 8,
+    "spell_description_id": 309
+  },
+  {
+    "id": 193,
+    "name": "Astrale Projektion",
+    "level": 9,
+    "spell_description_id": 11
+  },
+  {
+    "id": 194,
+    "name": "Einkerkerung",
+    "level": 9,
+    "spell_description_id": 43
+  },
+  {
+    "id": 195,
+    "name": "Gestaltwandel",
+    "level": 9,
+    "spell_description_id": 93
+  },
+  {
+    "id": 196,
+    "name": "Meteoritenschwarm",
+    "level": 9,
+    "spell_description_id": 156
+  },
+  {
+    "id": 197,
+    "name": "Regenbogenwand",
+    "level": 9,
+    "spell_description_id": 180
+  },
+  {
+    "id": 198,
+    "name": "Tor",
+    "level": 9,
+    "spell_description_id": 253
+  },
+  {
+    "id": 199,
+    "name": "Unheimliches Schicksal",
+    "level": 9,
+    "spell_description_id": 261
+  },
+  {
+    "id": 200,
+    "name": "Voraussicht",
+    "level": 9,
+    "spell_description_id": 285
+  },
+  {
+    "id": 201,
+    "name": "Wahre Verwandlung",
+    "level": 9,
+    "spell_description_id": 291
+  },
+  {
+    "id": 202,
+    "name": "Wort der Macht: Tod",
+    "level": 9,
+    "spell_description_id": 310
+  },
+  {
+    "id": 203,
+    "name": "Wunsch",
+    "level": 9,
+    "spell_description_id": 313
+  },
+  {
+    "id": 204,
+    "name": "Zeitstopp",
+    "level": 9,
+    "spell_description_id": 315
+  }
+]

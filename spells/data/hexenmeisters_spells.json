@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "name": "Einfache Illusion",
+    "level": 0,
+    "spell_description_id": 41
+  },
+  {
+    "id": 2,
+    "name": "Gift versprühen",
+    "level": 0,
+    "spell_description_id": 95
+  },
+  {
+    "id": 3,
+    "name": "Kalte Hand",
+    "level": 0,
+    "spell_description_id": 123
+  },
+  {
+    "id": 4,
+    "name": "Magierhand",
+    "level": 0,
+    "spell_description_id": 144
+  },
+  {
+    "id": 5,
+    "name": "Taschenspielerei",
+    "level": 0,
+    "spell_description_id": 238
+  },
+  {
+    "id": 6,
+    "name": "Unheimlicher Strahl",
+    "level": 0,
+    "spell_description_id": 260
+  },
+  {
+    "id": 7,
+    "name": "Zielsicherer Schlag",
+    "level": 0,
+    "spell_description_id": 317
+  },
+  {
+    "id": 8,
+    "name": "Höllischer Tadel",
+    "level": 1,
+    "spell_description_id": 115
+  },
+  {
+    "id": 9,
+    "name": "Illusionsschrift",
+    "level": 1,
+    "spell_description_id": 120
+  },
+  {
+    "id": 10,
+    "name": "Person bezaubern",
+    "level": 1,
+    "spell_description_id": 171
+  },
+  {
+    "id": 11,
+    "name": "Rascher Rückzug",
+    "level": 1,
+    "spell_description_id": 177
+  },
+  {
+    "id": 12,
+    "name": "Schutz vor Gut und Böse",
+    "level": 1,
+    "spell_description_id": 200
+  },
+  {
+    "id": 13,
+    "name": "Sprachen verstehen",
+    "level": 1,
+    "spell_description_id": 225
+  },
+  {
+    "id": 14,
+    "name": "Unsichtbarer Diener",
+    "level": 1,
+    "spell_description_id": 262
+  },
+  {
+    "id": 15,
+    "name": "Dunkelheit",
+    "level": 2,
+    "spell_description_id": 38
+  },
+  {
+    "id": 16,
+    "name": "Einflüsterung",
+    "level": 2,
+    "spell_description_id": 42
+  },
+  {
+    "id": 17,
+    "name": "Fesseln",
+    "level": 2,
+    "spell_description_id": 60
+  },
+  {
+    "id": 18,
+    "name": "Nebelschritt",
+    "level": 2,
+    "spell_description_id": 166
+  },
+  {
+    "id": 19,
+    "name": "Person festhalten",
+    "level": 2,
+    "spell_description_id": 172
+  },
+  {
+    "id": 20,
+    "name": "Schwächestrahl",
+    "level": 2,
+    "spell_description_id": 207
+  },
+  {
+    "id": 21,
+    "name": "Spiegelbilder",
+    "level": 2,
+    "spell_description_id": 223
+  },
+  {
+    "id": 22,
+    "name": "Spinnenklettern",
+    "level": 2,
+    "spell_description_id": 224
+  },
+  {
+    "id": 23,
+    "name": "Unsichtbarkeit",
+    "level": 2,
+    "spell_description_id": 264
+  },
+  {
+    "id": 24,
+    "name": "Zerbersten",
+    "level": 2,
+    "spell_description_id": 316
+  },
+  {
+    "id": 25,
+    "name": "Fliegen",
+    "level": 3,
+    "spell_description_id": 73
+  },
+  {
+    "id": 26,
+    "name": "Fluch brechen",
+    "level": 3,
+    "spell_description_id": 76
+  },
+  {
+    "id": 27,
+    "name": "Furcht",
+    "level": 3,
+    "spell_description_id": 78
+  },
+  {
+    "id": 28,
+    "name": "Gasförmige Gestalt",
+    "level": 3,
+    "spell_description_id": 80
+  },
+  {
+    "id": 29,
+    "name": "Gegenzauber",
+    "level": 3,
+    "spell_description_id": 88
+  },
+  {
+    "id": 30,
+    "name": "Hypnotisches Muster",
+    "level": 3,
+    "spell_description_id": 118
+  },
+  {
+    "id": 31,
+    "name": "Mächtiges Trugbild",
+    "level": 3,
+    "spell_description_id": 141
+  },
+  {
+    "id": 32,
+    "name": "Magie bannen",
+    "level": 3,
+    "spell_description_id": 142
+  },
+  {
+    "id": 33,
+    "name": "Schutzkreis",
+    "level": 3,
+    "spell_description_id": 204
+  },
+  {
+    "id": 34,
+    "name": "Vampirgriff",
+    "level": 3,
+    "spell_description_id": 268
+  },
+  {
+    "id": 35,
+    "name": "Zungen",
+    "level": 3,
+    "spell_description_id": 319
+  },
+  {
+    "id": 36,
+    "name": "Dimensionstür",
+    "level": 4,
+    "spell_description_id": 33
+  },
+  {
+    "id": 37,
+    "name": "Plage",
+    "level": 4,
+    "spell_description_id": 175
+  },
+  {
+    "id": 38,
+    "name": "Scheingelände",
+    "level": 4,
+    "spell_description_id": 191
+  },
+  {
+    "id": 39,
+    "name": "Verbannung",
+    "level": 4,
+    "spell_description_id": 270
+  },
+  {
+    "id": 40,
+    "name": "Ausspähung",
+    "level": 5,
+    "spell_description_id": 19
+  },
+  {
+    "id": 41,
+    "name": "Kontakt zu anderen Ebenen",
+    "level": 5,
+    "spell_description_id": 130
+  },
+  {
+    "id": 42,
+    "name": "Monster festhalten",
+    "level": 5,
+    "spell_description_id": 163
+  },
+  {
+    "id": 43,
+    "name": "Traum",
+    "level": 5,
+    "spell_description_id": 256
+  },
+  {
+    "id": 44,
+    "name": "Böser Blick",
+    "level": 6,
+    "spell_description_id": 27
+  },
+  {
+    "id": 45,
+    "name": "Feenwesen beschwören",
+    "level": 6,
+    "spell_description_id": 59
+  },
+  {
+    "id": 46,
+    "name": "Fleisch zu Stein",
+    "level": 6,
+    "spell_description_id": 72
+  },
+  {
+    "id": 47,
+    "name": "Massen-Einflüsterung",
+    "level": 6,
+    "spell_description_id": 151
+  },
+  {
+    "id": 48,
+    "name": "Todeskreis",
+    "level": 6,
+    "spell_description_id": 249
+  },
+  {
+    "id": 49,
+    "name": "Untote erschaffen",
+    "level": 6,
+    "spell_description_id": 265
+  },
+  {
+    "id": 50,
+    "name": "Wahrer Blick",
+    "level": 6,
+    "spell_description_id": 292
+  },
+  {
+    "id": 51,
+    "name": "Ätherische Gestalten",
+    "level": 7,
+    "spell_description_id": 12
+  },
+  {
+    "id": 52,
+    "name": "Ebenenwechsel",
+    "level": 7,
+    "spell_description_id": 40
+  },
+  {
+    "id": 53,
+    "name": "Energiekäfig",
+    "level": 7,
+    "spell_description_id": 48
+  },
+  {
+    "id": 54,
+    "name": "Finger des Todes",
+    "level": 7,
+    "spell_description_id": 66
+  },
+  {
+    "id": 55,
+    "name": "Halbebene",
+    "level": 8,
+    "spell_description_id": 103
+  },
+  {
+    "id": 56,
+    "name": "Monster beherrschen",
+    "level": 8,
+    "spell_description_id": 162
+  },
+  {
+    "id": 57,
+    "name": "Redegewandtheit",
+    "level": 8,
+    "spell_description_id": 178
+  },
+  {
+    "id": 58,
+    "name": "Schwachsinn",
+    "level": 8,
+    "spell_description_id": 208
+  },
+  {
+    "id": 59,
+    "name": "Wort der Macht: Betäubung",
+    "level": 8,
+    "spell_description_id": 309
+  },
+  {
+    "id": 60,
+    "name": "Astrale Projektion",
+    "level": 9,
+    "spell_description_id": 11
+  },
+  {
+    "id": 61,
+    "name": "Einkerkerung",
+    "level": 9,
+    "spell_description_id": 43
+  },
+  {
+    "id": 62,
+    "name": "Voraussicht",
+    "level": 9,
+    "spell_description_id": 285
+  },
+  {
+    "id": 63,
+    "name": "Wahre Verwandlung",
+    "level": 9,
+    "spell_description_id": 291
+  },
+  {
+    "id": 64,
+    "name": "Wort der Macht: Tod",
+    "level": 9,
+    "spell_description_id": 310
+  }
+]

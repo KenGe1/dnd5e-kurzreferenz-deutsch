@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "name": "Ausbessern",
+    "level": 0,
+    "spell_description_id": 17
+  },
+  {
+    "id": 2,
+    "name": "Druidenkunst",
+    "level": 0,
+    "spell_description_id": 37
+  },
+  {
+    "id": 3,
+    "name": "Flammen erzeugen",
+    "level": 0,
+    "spell_description_id": 67
+  },
+  {
+    "id": 4,
+    "name": "Gift versprühen",
+    "level": 0,
+    "spell_description_id": 95
+  },
+  {
+    "id": 5,
+    "name": "Göttliche Führung",
+    "level": 0,
+    "spell_description_id": 97
+  },
+  {
+    "id": 6,
+    "name": "Shillelagh",
+    "level": 0,
+    "spell_description_id": 217
+  },
+  {
+    "id": 7,
+    "name": "Widerstand",
+    "level": 0,
+    "spell_description_id": null
+  },
+  {
+    "id": 8,
+    "name": "Donnerwoge",
+    "level": 1,
+    "spell_description_id": 34
+  },
+  {
+    "id": 9,
+    "name": "Feenfeuer",
+    "level": 1,
+    "spell_description_id": 58
+  },
+  {
+    "id": 10,
+    "name": "Gift und Krankheit entdecken",
+    "level": 1,
+    "spell_description_id": 94
+  },
+  {
+    "id": 11,
+    "name": "Gute Beeren",
+    "level": 1,
+    "spell_description_id": 100
+  },
+  {
+    "id": 12,
+    "name": "Heilendes Wort",
+    "level": 1,
+    "spell_description_id": 105
+  },
+  {
+    "id": 13,
+    "name": "Lange Schritte",
+    "level": 1,
+    "spell_description_id": 134
+  },
+  {
+    "id": 14,
+    "name": "Magie entdecken",
+    "level": 1,
+    "spell_description_id": 143
+  },
+  {
+    "id": 15,
+    "name": "Mit Tieren sprechen",
+    "level": 1,
+    "spell_description_id": 159
+  },
+  {
+    "id": 16,
+    "name": "Nahrung und Wasser reinigen",
+    "level": 1,
+    "spell_description_id": 165
+  },
+  {
+    "id": 17,
+    "name": "Nebelwolke",
+    "level": 1,
+    "spell_description_id": 167
+  },
+  {
+    "id": 18,
+    "name": "Person bezaubern",
+    "level": 1,
+    "spell_description_id": 171
+  },
+  {
+    "id": 19,
+    "name": "Springen",
+    "level": 1,
+    "spell_description_id": 226
+  },
+  {
+    "id": 20,
+    "name": "Tierfreundschaft",
+    "level": 1,
+    "spell_description_id": 248
+  },
+  {
+    "id": 21,
+    "name": "Verstricken",
+    "level": 1,
+    "spell_description_id": 279
+  },
+  {
+    "id": 22,
+    "name": "Wasser erschaffen oder zerstören",
+    "level": 1,
+    "spell_description_id": 295
+  },
+  {
+    "id": 23,
+    "name": "Wunden heilen",
+    "level": 1,
+    "spell_description_id": 311
+  },
+  {
+    "id": 24,
+    "name": "Attribut verbessern",
+    "level": 2,
+    "spell_description_id": 13
+  },
+  {
+    "id": 25,
+    "name": "Dornenwuchs",
+    "level": 2,
+    "spell_description_id": 36
+  },
+  {
+    "id": 26,
+    "name": "Dunkelsicht",
+    "level": 2,
+    "spell_description_id": 39
+  },
+  {
+    "id": 27,
+    "name": "Fallen finden",
+    "level": 2,
+    "spell_description_id": 55
+  },
+  {
+    "id": 28,
+    "name": "Flammenklinge",
+    "level": 2,
+    "spell_description_id": 69
+  },
+  {
+    "id": 29,
+    "name": "Flammenkugel",
+    "level": 2,
+    "spell_description_id": 70
+  },
+  {
+    "id": 30,
+    "name": "Gegenstand aufspüren",
+    "level": 2,
+    "spell_description_id": 86
+  },
+  {
+    "id": 31,
+    "name": "Metall erhitzen",
+    "level": 2,
+    "spell_description_id": 155
+  },
+  {
+    "id": 32,
+    "name": "Mondstrahl",
+    "level": 2,
+    "spell_description_id": 161
+  },
+  {
+    "id": 33,
+    "name": "Person festhalten",
+    "level": 2,
+    "spell_description_id": 172
+  },
+  {
+    "id": 34,
+    "name": "Rindenhaut",
+    "level": 2,
+    "spell_description_id": 185
+  },
+  {
+    "id": 35,
+    "name": "Schutz vor Gift",
+    "level": 2,
+    "spell_description_id": 199
+  },
+  {
+    "id": 36,
+    "name": "Schwache Genesung",
+    "level": 2,
+    "spell_description_id": 206
+  },
+  {
+    "id": 37,
+    "name": "Spurloses Gehen",
+    "level": 2,
+    "spell_description_id": 228
+  },
+  {
+    "id": 38,
+    "name": "Tierbote",
+    "level": 2,
+    "spell_description_id": 244
+  },
+  {
+    "id": 39,
+    "name": "Tiere oder Pflanzen aufspüren",
+    "level": 2,
+    "spell_description_id": 246
+  },
+  {
+    "id": 40,
+    "name": "Windstoß",
+    "level": 2,
+    "spell_description_id": 305
+  },
+  {
+    "id": 41,
+    "name": "Auf Wasser gehen",
+    "level": 3,
+    "spell_description_id": 14
+  },
+  {
+    "id": 42,
+    "name": "Blitze herbeirufen",
+    "level": 3,
+    "spell_description_id": 26
+  },
+  {
+    "id": 43,
+    "name": "Magie bannen",
+    "level": 3,
+    "spell_description_id": 142
+  },
+  {
+    "id": 44,
+    "name": "Mit Pflanzen sprechen",
+    "level": 3,
+    "spell_description_id": 157
+  },
+  {
+    "id": 45,
+    "name": "Mit Stein verschmelzen",
+    "level": 3,
+    "spell_description_id": 158
+  },
+  {
+    "id": 46,
+    "name": "Pflanzenwachstum",
+    "level": 3,
+    "spell_description_id": 174
+  },
+  {
+    "id": 47,
+    "name": "Schneesturm",
+    "level": 3,
+    "spell_description_id": 196
+  },
+  {
+    "id": 48,
+    "name": "Schutz vor Energie",
+    "level": 3,
+    "spell_description_id": 198
+  },
+  {
+    "id": 49,
+    "name": "Tageslicht",
+    "level": 3,
+    "spell_description_id": 236
+  },
+  {
+    "id": 50,
+    "name": "Tiere beschwören",
+    "level": 3,
+    "spell_description_id": 245
+  },
+  {
+    "id": 51,
+    "name": "Wasser atmen",
+    "level": 3,
+    "spell_description_id": 294
+  },
+  {
+    "id": 52,
+    "name": "Windwall",
+    "level": 3,
+    "spell_description_id": 306
+  },
+  {
+    "id": 53,
+    "name": "Bewegungsfreiheit",
+    "level": 4,
+    "spell_description_id": 22
+  },
+  {
+    "id": 54,
+    "name": "Eissturm",
+    "level": 4,
+    "spell_description_id": 45
+  },
+  {
+    "id": 55,
+    "name": "Feuerwand",
+    "level": 4,
+    "spell_description_id": 65
+  },
+  {
+    "id": 56,
+    "name": "Kreatur aufspüren",
+    "level": 4,
+    "spell_description_id": 131
+  },
+  {
+    "id": 57,
+    "name": "Plage",
+    "level": 4,
+    "spell_description_id": 175
+  },
+  {
+    "id": 58,
+    "name": "Rieseninsekt",
+    "level": 4,
+    "spell_description_id": 184
+  },
+  {
+    "id": 59,
+    "name": "Scheingelände",
+    "level": 4,
+    "spell_description_id": 191
+  },
+  {
+    "id": 60,
+    "name": "Schwache Elementare beschwören",
+    "level": 4,
+    "spell_description_id": 205
+  },
+  {
+    "id": 61,
+    "name": "Stein formen",
+    "level": 4,
+    "spell_description_id": 229
+  },
+  {
+    "id": 62,
+    "name": "Steinhaut",
+    "level": 4,
+    "spell_description_id": 230
+  },
+  {
+    "id": 63,
+    "name": "Tier beherrschen",
+    "level": 4,
+    "spell_description_id": 243
+  },
+  {
+    "id": 64,
+    "name": "Verwandlung",
+    "level": 4,
+    "spell_description_id": 281
+  },
+  {
+    "id": 65,
+    "name": "Verwirrung",
+    "level": 4,
+    "spell_description_id": 282
+  },
+  {
+    "id": 66,
+    "name": "Wasser kontrollieren",
+    "level": 4,
+    "spell_description_id": 296
+  },
+  {
+    "id": 67,
+    "name": "Wesen des Waldes beschwören",
+    "level": 4,
+    "spell_description_id": 300
+  },
+  {
+    "id": 68,
+    "name": "Ansteckung",
+    "level": 5,
+    "spell_description_id": 3
+  },
+  {
+    "id": 69,
+    "name": "Ausspähung",
+    "level": 5,
+    "spell_description_id": 19
+  },
+  {
+    "id": 70,
+    "name": "Bindung der Ebenen",
+    "level": 5,
+    "spell_description_id": 23
+  },
+  {
+    "id": 71,
+    "name": "Einswerden mit der Natur",
+    "level": 5,
+    "spell_description_id": 44
+  },
+  {
+    "id": 72,
+    "name": "Elementar beschwören",
+    "level": 5,
+    "spell_description_id": 47
+  },
+  {
+    "id": 73,
+    "name": "Erwecken",
+    "level": 5,
+    "spell_description_id": 54
+  },
+  {
+    "id": 74,
+    "name": "Geas",
+    "level": 5,
+    "spell_description_id": 81
+  },
+  {
+    "id": 75,
+    "name": "Hölzerner Weg",
+    "level": 5,
+    "spell_description_id": 116
+  },
+  {
+    "id": 76,
+    "name": "Insektenplage",
+    "level": 5,
+    "spell_description_id": 121
+  },
+  {
+    "id": 77,
+    "name": "Massen-Wunden heilen",
+    "level": 5,
+    "spell_description_id": 154
+  },
+  {
+    "id": 78,
+    "name": "Schutzhülle gegen Lebendes",
+    "level": 5,
+    "spell_description_id": 203
+  },
+  {
+    "id": 79,
+    "name": "Steinwand",
+    "level": 5,
+    "spell_description_id": 231
+  },
+  {
+    "id": 80,
+    "name": "Vollständige Genesung",
+    "level": 5,
+    "spell_description_id": 283
+  },
+  {
+    "id": 81,
+    "name": "Wiedergeburt",
+    "level": 5,
+    "spell_description_id": 304
+  },
+  {
+    "id": 82,
+    "name": "Dornenwand",
+    "level": 6,
+    "spell_description_id": 35
+  },
+  {
+    "id": 83,
+    "name": "Erde bewegen",
+    "level": 6,
+    "spell_description_id": 51
+  },
+  {
+    "id": 84,
+    "name": "Feenwesen beschwören",
+    "level": 6,
+    "spell_description_id": 59
+  },
+  {
+    "id": 85,
+    "name": "Heilung",
+    "level": 6,
+    "spell_description_id": 110
+  },
+  {
+    "id": 86,
+    "name": "Heldenmahl",
+    "level": 6,
+    "spell_description_id": 111
+  },
+  {
+    "id": 87,
+    "name": "Pflanzentor",
+    "level": 6,
+    "spell_description_id": 173
+  },
+  {
+    "id": 88,
+    "name": "Sonnenstrahl",
+    "level": 6,
+    "spell_description_id": 221
+  },
+  {
+    "id": 89,
+    "name": "Weg finden",
+    "level": 6,
+    "spell_description_id": 297
+  },
+  {
+    "id": 90,
+    "name": "Windwandeln",
+    "level": 6,
+    "spell_description_id": 307
+  },
+  {
+    "id": 91,
+    "name": "Arkane Spiegelung",
+    "level": 7,
+    "spell_description_id": 7
+  },
+  {
+    "id": 92,
+    "name": "Ebenenwechsel",
+    "level": 7,
+    "spell_description_id": 40
+  },
+  {
+    "id": 93,
+    "name": "Feuersturm",
+    "level": 7,
+    "spell_description_id": 64
+  },
+  {
+    "id": 94,
+    "name": "Regeneration",
+    "level": 7,
+    "spell_description_id": 181
+  },
+  {
+    "id": 95,
+    "name": "Schwerkraft umkehren",
+    "level": 7,
+    "spell_description_id": 212
+  },
+  {
+    "id": 96,
+    "name": "Antipathie/Sympathie",
+    "level": 8,
+    "spell_description_id": 5
+  },
+  {
+    "id": 97,
+    "name": "Erdbeben",
+    "level": 8,
+    "spell_description_id": 50
+  },
+  {
+    "id": 98,
+    "name": "Schwachsinn",
+    "level": 8,
+    "spell_description_id": 208
+  },
+  {
+    "id": 99,
+    "name": "Sonnenfeuer",
+    "level": 8,
+    "spell_description_id": 220
+  },
+  {
+    "id": 100,
+    "name": "Tierform",
+    "level": 8,
+    "spell_description_id": 247
+  },
+  {
+    "id": 101,
+    "name": "Wetterkontrolle",
+    "level": 8,
+    "spell_description_id": 301
+  },
+  {
+    "id": 102,
+    "name": "Gestaltwandel",
+    "level": 9,
+    "spell_description_id": 93
+  },
+  {
+    "id": 103,
+    "name": "Sturm der Vergeltung",
+    "level": 9,
+    "spell_description_id": 234
+  },
+  {
+    "id": 104,
+    "name": "Voraussicht",
+    "level": 9,
+    "spell_description_id": 285
+  },
+  {
+    "id": 105,
+    "name": "Wahre Auferstehung",
+    "level": 9,
+    "spell_description_id": 290
+  }
+]

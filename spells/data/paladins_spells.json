@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "name": "Befehl",
+    "level": 1,
+    "spell_description_id": 20
+  },
+  {
+    "id": 2,
+    "name": "Gift und Krankheit entdecken",
+    "level": 1,
+    "spell_description_id": 94
+  },
+  {
+    "id": 3,
+    "name": "Göttliche Gunst",
+    "level": 1,
+    "spell_description_id": 98
+  },
+  {
+    "id": 4,
+    "name": "Gutes und Böses entdecken",
+    "level": 1,
+    "spell_description_id": 102
+  },
+  {
+    "id": 5,
+    "name": "Heldenmut",
+    "level": 1,
+    "spell_description_id": 112
+  },
+  {
+    "id": 6,
+    "name": "Magie entdecken",
+    "level": 1,
+    "spell_description_id": 143
+  },
+  {
+    "id": 7,
+    "name": "Nahrung und Wasser reinigen",
+    "level": 1,
+    "spell_description_id": 165
+  },
+  {
+    "id": 8,
+    "name": "Schild des Glaubens",
+    "level": 1,
+    "spell_description_id": 193
+  },
+  {
+    "id": 9,
+    "name": "Schutz vor Gut und Böse",
+    "level": 1,
+    "spell_description_id": 200
+  },
+  {
+    "id": 10,
+    "name": "Segnen",
+    "level": 1,
+    "spell_description_id": 213
+  },
+  {
+    "id": 11,
+    "name": "Wunden heilen",
+    "level": 1,
+    "spell_description_id": 311
+  },
+  {
+    "id": 12,
+    "name": "Beistand",
+    "level": 2,
+    "spell_description_id": 21
+  },
+  {
+    "id": 13,
+    "name": "Brandmarkendes Niederstrecken",
+    "level": 2,
+    "spell_description_id": 29
+  },
+  {
+    "id": 14,
+    "name": "Gegenstand aufspüren",
+    "level": 2,
+    "spell_description_id": 86
+  },
+  {
+    "id": 15,
+    "name": "Magische Waffe",
+    "level": 2,
+    "spell_description_id": 147
+  },
+  {
+    "id": 16,
+    "name": "Reittier finden",
+    "level": 2,
+    "spell_description_id": 182
+  },
+  {
+    "id": 17,
+    "name": "Schutz vor Gift",
+    "level": 2,
+    "spell_description_id": 199
+  },
+  {
+    "id": 18,
+    "name": "Schwache Genesung",
+    "level": 2,
+    "spell_description_id": 206
+  },
+  {
+    "id": 19,
+    "name": "Zone der Wahrheit",
+    "level": 2,
+    "spell_description_id": 318
+  },
+  {
+    "id": 20,
+    "name": "Fluch brechen",
+    "level": 3,
+    "spell_description_id": 76
+  },
+  {
+    "id": 21,
+    "name": "Magie bannen",
+    "level": 3,
+    "spell_description_id": 142
+  },
+  {
+    "id": 22,
+    "name": "Nahrung und Wasser erschaffen",
+    "level": 3,
+    "spell_description_id": 164
+  },
+  {
+    "id": 23,
+    "name": "Schutzkreis",
+    "level": 3,
+    "spell_description_id": 204
+  },
+  {
+    "id": 24,
+    "name": "Tageslicht",
+    "level": 3,
+    "spell_description_id": 236
+  },
+  {
+    "id": 25,
+    "name": "Wiederbeleben",
+    "level": 3,
+    "spell_description_id": 303
+  },
+  {
+    "id": 26,
+    "name": "Kreatur aufspüren",
+    "level": 4,
+    "spell_description_id": 131
+  },
+  {
+    "id": 27,
+    "name": "Todesschutz",
+    "level": 4,
+    "spell_description_id": 250
+  },
+  {
+    "id": 28,
+    "name": "Verbannung",
+    "level": 4,
+    "spell_description_id": 270
+  },
+  {
+    "id": 29,
+    "name": "Geas",
+    "level": 5,
+    "spell_description_id": 81
+  },
+  {
+    "id": 30,
+    "name": "Gutes und Böses bannen",
+    "level": 5,
+    "spell_description_id": 101
+  },
+  {
+    "id": 31,
+    "name": "Tote erwecken",
+    "level": 5,
+    "spell_description_id": 255
+  }
+]

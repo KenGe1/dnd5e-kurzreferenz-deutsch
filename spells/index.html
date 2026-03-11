@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>D&D Zauber</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="topbar">
+
+<button id="menuBtn">☰</button>
+
+<h1>Zauber</h1>
+
+<div class="actions">
+<button id="searchBtn">🔍</button>
+</div>
+
+</header>
+
+
+<div id="searchBar">
+<input type="text" id="searchInput" placeholder="Zauber suchen...">
+</div>
+
+
+<div class="layout">
+
+<aside id="sidebar">
+
+<h3>Kategorien</h3>
+
+<ul>
+
+<li onclick="loadAllSpells()">Alle Zauber</li>
+
+<li onclick="loadClass('barden_spells')">Barden-Zauber</li>
+<li onclick="loadClass('druiden_spells')">Druiden-Zauber</li>
+<li onclick="loadClass('hexenmeisters_spells')">Hexenmeister-Zauber</li>
+<li onclick="loadClass('klerikers_spells')">Kleriker-Zauber</li>
+<li onclick="loadClass('magiers_spells')">Magier-Zauber</li>
+<li onclick="loadClass('paladins_spells')">Paladin-Zauber</li>
+<li onclick="loadClass('waldlaeufers_spells')">Waldläufer-Zauber</li>
+<li onclick="loadClass('zauberers_spells')">Zauberer-Zauber</li>
+
+</ul>
+
+</aside>
+
+
+<main id="content"></main>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "name": "Alarm",
+    "level": 1,
+    "spell_description_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Tierfreundschaft",
+    "level": 1,
+    "spell_description_id": 248
+  },
+  {
+    "id": 3,
+    "name": "Wunden heilen",
+    "level": 1,
+    "spell_description_id": 311
+  },
+  {
+    "id": 4,
+    "name": "Magie entdecken",
+    "level": 1,
+    "spell_description_id": 143
+  },
+  {
+    "id": 5,
+    "name": "Gift und Krankheit entdecken",
+    "level": 1,
+    "spell_description_id": 94
+  },
+  {
+    "id": 6,
+    "name": "Nebelwolke",
+    "level": 1,
+    "spell_description_id": 167
+  },
+  {
+    "id": 7,
+    "name": "Gute Beeren",
+    "level": 1,
+    "spell_description_id": 100
+  },
+  {
+    "id": 8,
+    "name": "Zeichen des Jägers",
+    "level": 1,
+    "spell_description_id": 314
+  },
+  {
+    "id": 9,
+    "name": "Springen",
+    "level": 1,
+    "spell_description_id": 226
+  },
+  {
+    "id": 10,
+    "name": "Lange Schritte",
+    "level": 1,
+    "spell_description_id": 134
+  },
+  {
+    "id": 11,
+    "name": "Mit Tieren sprechen",
+    "level": 1,
+    "spell_description_id": 159
+  },
+  {
+    "id": 12,
+    "name": "Dornenwuchs",
+    "level": 2,
+    "spell_description_id": 36
+  },
+  {
+    "id": 13,
+    "name": "Dunkelsicht",
+    "level": 2,
+    "spell_description_id": 39
+  },
+  {
+    "id": 14,
+    "name": "Fallen finden",
+    "level": 2,
+    "spell_description_id": 55
+  },
+  {
+    "id": 15,
+    "name": "Gegenstand aufspüren",
+    "level": 2,
+    "spell_description_id": 86
+  },
+  {
+    "id": 16,
+    "name": "Rindenhaut",
+    "level": 2,
+    "spell_description_id": 185
+  },
+  {
+    "id": 17,
+    "name": "Schutz vor Gift",
+    "level": 2,
+    "spell_description_id": 199
+  },
+  {
+    "id": 18,
+    "name": "Schwache Genesung",
+    "level": 2,
+    "spell_description_id": 206
+  },
+  {
+    "id": 19,
+    "name": "Spurloses Gehen",
+    "level": 2,
+    "spell_description_id": 228
+  },
+  {
+    "id": 20,
+    "name": "Stille",
+    "level": 2,
+    "spell_description_id": 232
+  },
+  {
+    "id": 21,
+    "name": "Tierbote",
+    "level": 2,
+    "spell_description_id": 244
+  },
+  {
+    "id": 22,
+    "name": "Tiere oder Pflanzen aufspüren",
+    "level": 2,
+    "spell_description_id": 246
+  },
+  {
+    "id": 23,
+    "name": "Auf Wasser gehen",
+    "level": 3,
+    "spell_description_id": 14
+  },
+  {
+    "id": 24,
+    "name": "Mit Pflanzen sprechen",
+    "level": 3,
+    "spell_description_id": 157
+  },
+  {
+    "id": 25,
+    "name": "Pflanzenwachstum",
+    "level": 3,
+    "spell_description_id": 174
+  },
+  {
+    "id": 26,
+    "name": "Schutz vor Energie",
+    "level": 3,
+    "spell_description_id": 198
+  },
+  {
+    "id": 27,
+    "name": "Tageslicht",
+    "level": 3,
+    "spell_description_id": 236
+  },
+  {
+    "id": 28,
+    "name": "Tiere beschwören",
+    "level": 3,
+    "spell_description_id": 245
+  },
+  {
+    "id": 29,
+    "name": "Unauffindbarkeit",
+    "level": 3,
+    "spell_description_id": 259
+  },
+  {
+    "id": 30,
+    "name": "Wasser atmen",
+    "level": 3,
+    "spell_description_id": 294
+  },
+  {
+    "id": 31,
+    "name": "Windwall",
+    "level": 3,
+    "spell_description_id": 306
+  },
+  {
+    "id": 32,
+    "name": "Bewegungsfreiheit",
+    "level": 4,
+    "spell_description_id": 22
+  },
+  {
+    "id": 33,
+    "name": "Kreatur aufspüren",
+    "level": 4,
+    "spell_description_id": 131
+  },
+  {
+    "id": 34,
+    "name": "Steinhaut",
+    "level": 4,
+    "spell_description_id": 230
+  },
+  {
+    "id": 35,
+    "name": "Wesen des Waldes beschwören",
+    "level": 4,
+    "spell_description_id": 300
+  },
+  {
+    "id": 36,
+    "name": "Einswerden mit der Natur",
+    "level": 5,
+    "spell_description_id": 44
+  },
+  {
+    "id": 37,
+    "name": "Hölzerner Weg",
+    "level": 5,
+    "spell_description_id": 116
+  }
+]

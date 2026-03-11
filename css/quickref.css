@@ -887,7 +887,7 @@ a .map-btn{
     border-radius: 10px;
     padding: 5px;
     margin-bottom: 5px;
-    background-color: rgba(168, 168, 168, 0.226);
+    background-color: rgb(100, 100, 100);
     color: whitesmoke;
     cursor: pointer;
     height: 40px;
@@ -908,4 +908,28 @@ a {
 
 header {
     margin-bottom: 45px;
+}
+
+.zauber-btn {
+    font-size: large;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(100, 100, 100);
+    color: whitesmoke;
+    cursor: pointer;
+    height: 40px;
+    width: 80px;
+    font-family: 'MedievalSharp', 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    right: 100px;
+}
+
+a .zauber-btn {
+    position:absolute;
+    right: 75px;
 }
