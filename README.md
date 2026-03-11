@@ -1,4 +1,4 @@
-# 🎲 mfriik/dnd5e-quickref v2.0
+# 🎲 mfriik/dnd5e-quickref v2.0 
 
 > **💡 Wichtig:**  
 > Wenn die Seite seltsam aussieht, Bereiche nicht laden oder du die neuesten Funktionen nicht siehst —  
